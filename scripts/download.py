@@ -9,7 +9,7 @@ transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
 
 transcript = transcript_list.find_transcript(['en'])
 
-def create_translation_list(orig_lang, original_transcript, pl_transcript):
+def create_translation_structure(orig_lang, original_transcript, pl_transcript):
     ret = copy.deepcopy(original_transcript)
     for i, orig in enumerate(ret):
         pl = pl_transcript[i]
@@ -19,9 +19,12 @@ def create_translation_list(orig_lang, original_transcript, pl_transcript):
             orig_lang: orig_text.strip().replace('\n', ' '),
             'pl': pl_text.strip().replace('\n', ' ')
         }
-    return ret
+    return {
+        'status': 'generated',
+        'content': ret
+    }
 
-translation_list = create_translation_list('en', transcript.fetch(), transcript.translate('pl').fetch())
+translation_list = create_translation_structure('en', transcript.fetch(), transcript.translate('pl').fetch())
 
-print(yaml.dump(translation_list, allow_unicode=True))
+print(yaml.dump(translation_list, allow_unicode=True, sort_keys=False))
 
