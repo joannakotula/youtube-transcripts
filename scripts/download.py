@@ -1,6 +1,4 @@
-import sys
 from youtube_transcript_api import YouTubeTranscriptApi
-from smart_text_formatter import SmartTextFormatter
 import copy
 import yaml
 import argparse
