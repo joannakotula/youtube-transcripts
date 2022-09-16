@@ -65,9 +65,9 @@ transcript_data = yaml.safe_load(args.transcript)
 article = ArticleData(definition, transcript_data)
 
 
-writeln(args.output, "--")
+writeln(args.output, "---")
 writeln(args.output, f"tags: {article.tags()}")
-writeln(args.output, "--")
+writeln(args.output, "---")
 
 writeln(args.output, f"# {article.title()}")
 writeln(args.output, f"Tytuł oryginalny: {article.original_title()}")
