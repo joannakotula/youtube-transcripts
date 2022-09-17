@@ -9,7 +9,7 @@ TARGETS=$(patsubst ${DEFINITIONS_DATA_DIR}/%.yaml,${OUT_DIR}/%.md,${DEFINITIONS}
 
 all: ${TARGETS}
 
-${OUT_DIR}/%.md: ${DEFINITIONS_DATA_DIR}/%.yaml ${TRANSCRIPTS_DATA_DIR}/%.yaml
+${OUT_DIR}/%.md: ${DEFINITIONS_DATA_DIR}/%.yaml ${TRANSCRIPTS_DATA_DIR}/%.yaml scripts/generate_article.py
 	python3 scripts/generate_article.py -d ${DEFINITIONS_DATA_DIR}/$*.yaml -t ${TRANSCRIPTS_DATA_DIR}/$*.yaml -o $@
 
 
