@@ -1,6 +1,6 @@
---
+---
 tags: ['Biblia', 'Ap 5', 'Apokalipsa św. Jana', 'Wygenerowany automatycznie']
---
+---
 # Właściwa chwała, właściwy porządek - niedzielne kazanie biskupa Barrona
 Tytuł oryginalny: Right Praise, Right Order - Bishop Barron's Sunday Sermon
 
