@@ -67,6 +67,7 @@ article = ArticleData(definition, transcript_data)
 
 writeln(args.output, "---")
 writeln(args.output, f"tags: {article.tags()}")
+writeln(args.output, f"title: {article.title()}")
 writeln(args.output, "---")
 
 writeln(args.output, f"# {article.title()}")
