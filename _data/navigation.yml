@@ -1,0 +1,7 @@
+header:
+  - titles:
+      pl: Strona główna
+    url: /
+  - titles:
+      pl: Github
+    url: https://github.com/joannakotula/youtube-transcripts
