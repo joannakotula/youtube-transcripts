@@ -3,6 +3,7 @@ from enum import Enum
 import sys
 import yaml
 from transcript import Transcript
+from youtube import get_yt_id
 
 PARAGRAPH_BREAK_DURATION = 1.0
 
@@ -30,16 +31,22 @@ class ArticleData:
         return self.definition_data['tags'] + [self.status()]
 
     def title(self):
-        return definition['title']
+        return self.definition_data['title']
     
     def original_title(self):
-        return definition['original_title']
+        return self.definition_data['original_title']
+
+    def video_url(self):
+        return self.definition_data['url']
+
+    def cover(self):
+        video_id = get_yt_id(self.video_url())
+        return f"https://i.ytimg.com/vi/{video_id}/maxresdefault.jpg"
 
     def content(self, language):
         transcript = Transcript(language, self.transcripts_data)
         return '\n\n'.join(self.get_text_paragraphs_by_time(transcript))
     
-
     def get_text_paragraphs_by_time(self, transcript):
         paragraphs = []
         offset = 0.0
@@ -68,6 +75,7 @@ article = ArticleData(definition, transcript_data)
 writeln(args.output, "---")
 writeln(args.output, f"tags: {article.tags()}")
 writeln(args.output, f"title: {article.title()}")
+writeln(args.output, f"cover: {article.cover()}")
 writeln(args.output, "---")
 
 writeln(args.output, f"# {article.title()}")
