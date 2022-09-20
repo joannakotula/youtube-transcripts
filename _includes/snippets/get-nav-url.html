@@ -1,0 +1,7 @@
+{%- assign _pre1 = include.path | slice: 0, 1 -%}
+{%- if _pre1 == '/' -%}
+  {%- include snippets/prepend-baseurl.html path=include.path -%}
+  {%- assign __return = __return -%}
+{%- else -%}
+  {%- assign __return = include.path -%}
+{%- endif -%}

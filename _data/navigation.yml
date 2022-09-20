@@ -5,3 +5,11 @@ header:
   - titles:
       pl: Github
     url: https://github.com/joannakotula/youtube-transcripts
+
+transcripts-en:
+  - title: Spis treści
+    children:
+      - title: Transkrypt po polsku
+        url: '#transkrypt-po-polsku'
+      - title: Transkrypt po angielsku
+        url: '#transkrypt-po-angielsku'
