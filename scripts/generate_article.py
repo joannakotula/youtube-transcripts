@@ -39,8 +39,11 @@ class ArticleData:
     def video_url(self):
         return self.definition_data['url']
 
+    def video_id(self):
+        return get_yt_id(self.video_url())
+
     def cover(self):
-        video_id = get_yt_id(self.video_url())
+        video_id = self.video_id()
         return f"https://i.ytimg.com/vi/{video_id}/maxresdefault.jpg"
 
     def content(self, language):
@@ -81,6 +84,9 @@ writeln(args.output, "  nav: transcripts-en")
 writeln(args.output, "---")
 
 writeln(args.output, f"Tytuł oryginalny: {article.original_title()}")
+writeln(args.output, "")
+writeln(args.output, "## Wideo")
+writeln(args.output, f"{{% youtube {article.video_id()} %}}")
 writeln(args.output, "")
 writeln(args.output, f"## Transkrypt po polsku")
 writeln(args.output, "")

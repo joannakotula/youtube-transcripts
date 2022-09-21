@@ -9,6 +9,8 @@ header:
 transcripts-en:
   - title: Spis treści
     children:
+      - title: Wideo
+        url: '#wideo'
       - title: Transkrypt po polsku
         url: '#transkrypt-po-polsku'
       - title: Transkrypt po angielsku
