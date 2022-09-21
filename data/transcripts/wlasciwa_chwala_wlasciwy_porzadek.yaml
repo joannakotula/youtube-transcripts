@@ -1,10 +1,12 @@
-status: generated
+status: in_progress
+marked_breaks: true
 content:
 - text:
     en: Peace be with you.
-    pl: Pokój z tobą.
+    pl: Pokój z Wami.
   start: 0.19
   duration: 1.02
+  break: true
 - text:
     en: Friends, for this Third Sunday of Easter,
     pl: Przyjaciele, w tę Trzecią Niedzielę Wielkanocną
@@ -20,6 +22,7 @@ content:
     pl: interpretację Księgi Objawienia.
   start: 5.45
   duration: 1.21
+  break: true
 - text:
     en: So all during the Easter season,
     pl: Tak więc przez cały okres wielkanocny
@@ -27,17 +30,17 @@ content:
   duration: 1.68
 - text:
     en: reading number two is from Revelation.
-    pl: drugie czytanie pochodzi z Objawienia.
+    pl: drugie czytanie pochodzi z Apokalipsy.
   start: 8.34
   duration: 2.56
 - text:
     en: And I think it's a very important book,
-    pl: I myślę, że to bardzo ważna książka,
+    pl: I myślę, że to bardzo ważna księga,
   start: 10.9
   duration: 2.32
 - text:
     en: but one that a lot of Catholics I think
-    pl: ale myślę, że wielu katolików
+    pl: której jednak, jak sądzę, wielu katolików
   start: 13.22
   duration: 1.92
 - text:
@@ -47,12 +50,12 @@ content:
   duration: 1.76
 - text:
     en: I mentioned last week that Revelation,
-    pl: Wspomniałem w zeszłym tygodniu, że Objawienie,
+    pl: Wspomniałem w zeszłym tygodniu, że Apokalipsa,
   start: 17.24
   duration: 2.94
 - text:
     en: taking away the veil, it has to do not so much
-    pl: zdejmując zasłonę , ma nie tyle mieć związek
+    pl: Objawienie, zdjęcie zasłony, ma nie tyle związek
   start: 20.46
   duration: 2.75
 - text:
@@ -62,7 +65,7 @@ content:
   duration: 2.0
 - text:
     en: It has to do with the giving way of an old order
-    pl: Ma to związek z ustępowaniem starego porządku
+    pl: Ma związek z ustępowaniem starego porządku
   start: 25.21
   duration: 4.57
 - text:
