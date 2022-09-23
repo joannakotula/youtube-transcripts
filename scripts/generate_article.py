@@ -28,7 +28,7 @@ class ArticleData:
         return TranscriptStatus[self.transcripts_data['status']].value
 
     def tags(self):
-        return self.definition_data['tags'] + [self.status()]
+        return self.definition_data.get('tags', []) + [self.status()]
 
     def title(self):
         return self.definition_data['title']
