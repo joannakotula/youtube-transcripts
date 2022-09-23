@@ -1,7 +1,7 @@
 DEFINITIONS_DATA_DIR=data/definitions
 TRANSCRIPTS_DATA_DIR=data/transcripts
 
-OUT_DIR=_transcripts/
+OUT_DIR=_transcripts
 
 DEFINITIONS=$(wildcard ${DEFINITIONS_DATA_DIR}/*)
 TARGETS=$(patsubst ${DEFINITIONS_DATA_DIR}/%.yaml,${OUT_DIR}/%.md,${DEFINITIONS})
