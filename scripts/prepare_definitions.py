@@ -62,7 +62,7 @@ video_links = Playlist(args.url).video_urls
 for link in video_links:
     print(f"Preparing data for: {link}")
     movie = YouTube(link)
-    if args.lang in movie.captions:
+    if args.lang in movie.captions or MAIN_LANGUAGE in movie.captions:
         print(f"Creating definition for: {movie.title}")
         definition = build_definition(movie)
         filename = get_filename(definition)
