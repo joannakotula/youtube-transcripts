@@ -67,8 +67,11 @@ for link in video_links:
         definition = build_definition(movie)
         filename = get_filename(definition)
         out_path = f"{args.out}/{filename}.yaml"
-        with open(out_path, 'w') as f:
-            f.write(dump_yaml(definition))
+        if os.path.exists(out_path):
+            print(f"File {out_path} exists, skipping")
+        else:
+            with open(out_path, 'w') as f:
+                f.write(dump_yaml(definition))
     else:
         print(f"No subtitles for {args.lang} in {movie.title} - skipping")
         print(list(movie.captions.keys()))
