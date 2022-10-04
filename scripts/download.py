@@ -12,18 +12,20 @@ MAIN_LANGUAGE='pl'
 parser = argparse.ArgumentParser(description='Download transcript data for definition file')
 parser.add_argument('--definition', '-d', type=argparse.FileType('r'), required=True)
 parser.add_argument('--output', '-o', type=str, required=True)
+parser.add_argument('--force', '-f', default=False, action='store_true')
 
+
+def prepare_entries(lang, transcript):
+    new_trans = copy.deepcopy(transcript)
+    for item in new_trans:
+        item['lang'] = lang
+        item['text'] = item['text'].strip().replace('\n', ' ')
+    return new_trans
+    
 
 def create_translation_structure(orig_lang, original_transcript, pl_transcript):
-    ret = copy.deepcopy(original_transcript)
-    for i, orig in enumerate(ret):
-        pl = pl_transcript[i]
-        orig_text = orig['text']
-        pl_text = pl['text']
-        orig['text'] = {
-            orig_lang: orig_text.strip().replace('\n', ' '),
-            'pl': pl_text.strip().replace('\n', ' ')
-        }
+    ret = prepare_entries(orig_lang, original_transcript) + prepare_entries('pl', pl_transcript)
+    ret.sort(key = lambda elem: elem['start'])
     return {
         'status': 'generated',
         'content': ret
@@ -44,7 +46,7 @@ def prepare_transcripts(url, original_language):
 
 args = parser.parse_args()
 
-if Path(args.output).exists():
+if Path(args.output).exists() and not args.force:
     logging.warning(f"File {args.output} already exists, skipping")
     exit()
 

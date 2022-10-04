@@ -21,13 +21,14 @@ class Transcript(object):
     def __init__(self, language, data):
         self.language = language
         self.data = data
+        self.lines = list(filter(lambda entry: entry['lang'] == language, data['content']))
 
     def line(self, index):
-        full_line = self.data['content'][index]
-        return TranscriptLine(full_line['text'][self.language], full_line['start'], full_line['duration'])
+        full_line = self.lines[index]
+        return TranscriptLine(full_line['text'], full_line['start'], full_line['duration'])
 
     def size(self):
-        return len(self.data['content'])
+        return len(self.lines)
 
     def status(self):
         return self.data['status']
