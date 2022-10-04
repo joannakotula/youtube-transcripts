@@ -7,6 +7,7 @@ from pathlib import Path
 from youtube import get_yt_id
 
 MAIN_LANGUAGE='pl'
+PARAGRAPH_BREAK_DURATION = 1.0
 
 
 parser = argparse.ArgumentParser(description='Download transcript data for definition file')
@@ -17,9 +18,13 @@ parser.add_argument('--force', '-f', default=False, action='store_true')
 
 def prepare_entries(lang, transcript):
     new_trans = copy.deepcopy(transcript)
+    offset = 0.0
     for item in new_trans:
         item['lang'] = lang
         item['text'] = item['text'].strip().replace('\n', ' ')
+        if offset > 0 and item['start'] - offset >= PARAGRAPH_BREAK_DURATION:
+            item['new_paragraph'] = True
+        offset = item['start'] + item['duration']
     return new_trans
     
 

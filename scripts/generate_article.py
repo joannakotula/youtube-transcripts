@@ -5,8 +5,6 @@ import yaml
 from transcript import Transcript
 from youtube import get_yt_id
 
-PARAGRAPH_BREAK_DURATION = 1.0
-
 parser = argparse.ArgumentParser(description='Generate jekyll page with transcripts')
 parser.add_argument('--definition', '-d', type=argparse.FileType('r'), required=True)
 parser.add_argument('--transcript', '-t', type=argparse.FileType('r'), required=True)
@@ -48,20 +46,20 @@ class ArticleData:
 
     def content(self, language):
         transcript = Transcript(language, self.transcripts_data)
-        return '\n\n'.join(self.get_text_paragraphs_by_time(transcript))
+        return '\n\n'.join(self.get_text_paragraphs(transcript))
     
-    def get_text_paragraphs_by_time(self, transcript):
+    def get_text_paragraphs(self, transcript):
         paragraphs = []
-        offset = 0.0
         last_paragraph = None
         for line in transcript:
-            if last_paragraph and line.start - offset < PARAGRAPH_BREAK_DURATION:
-                last_paragraph += ' ' + line.text
-            else:
-                if last_paragraph:
+            if last_paragraph:
+                if line.new_paragraph:
                     paragraphs.append(last_paragraph)
+                    last_paragraph = line.text
+                else:
+                    last_paragraph += ' ' + line.text
+            else:
                 last_paragraph = line.text
-            offset = line.start + line.duration
         return paragraphs
 
 def writeln(file, line):

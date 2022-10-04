@@ -1,8 +1,7 @@
 class TranscriptLine:
-    def __init__(self, text, start, duration):
+    def __init__(self, text, new_paragraph):
         self.text = text
-        self.start = start
-        self.duration = duration
+        self.new_paragraph = new_paragraph
 
 class TranscriptIterator:
     def __init__(self, transcript):
@@ -25,7 +24,7 @@ class Transcript(object):
 
     def line(self, index):
         full_line = self.lines[index]
-        return TranscriptLine(full_line['text'], full_line['start'], full_line['duration'])
+        return TranscriptLine(full_line['text'], 'new_paragraph' in full_line and full_line['new_paragraph'])
 
     def size(self):
         return len(self.lines)
