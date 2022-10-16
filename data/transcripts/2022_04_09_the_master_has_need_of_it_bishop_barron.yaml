@@ -1,0 +1,2380 @@
+status: generated
+content:
+- text: Peace be with you.
+  start: 0.14
+  duration: 1.0
+  lang: en
+- text: Pokój z tobą.
+  start: 0.14
+  duration: 1.0
+  lang: pl
+- text: We come today to Palm Sunday, the beginning
+  start: 1.14
+  duration: 3.487
+  lang: en
+- text: Przyjeżdżamy dziś na Niedzielę Palmową,
+  start: 1.14
+  duration: 3.487
+  lang: pl
+- text: of the holiest week  of the year,
+  start: 4.864
+  duration: 1.546
+  lang: en
+- text: początek najświętszego tygodnia w roku,
+  start: 4.864
+  duration: 1.546
+  lang: pl
+- text: and of course we read at Mass the wonderful Passion narrative.
+  start: 6.41
+  duration: 3.61
+  lang: en
+- text: i oczywiście czytamy na Mszy św . cudowną opowieść o Męce Pańskiej.
+  start: 6.41
+  duration: 3.61
+  lang: pl
+- text: But I want to focus today not on the Passion narrative
+  start: 10.02
+  duration: 2.63
+  lang: en
+- text: Ale chcę się dziś skupić nie na opowiadaniu o Męce Pańskiej,
+  start: 10.02
+  duration: 2.63
+  lang: pl
+- text: but on the Gospel that we proclaim
+  start: 12.65
+  duration: 2.385
+  lang: en
+- text: ale na Ewangelii , którą głosimy
+  start: 12.65
+  duration: 2.385
+  lang: pl
+- text: just before the procession with palms,
+  start: 15.156
+  duration: 2.212
+  lang: en
+- text: tuż przed procesją z palmami,
+  start: 15.156
+  duration: 2.212
+  lang: pl
+- text: the very beginning of Mass.
+  start: 17.408
+  duration: 1.932
+  lang: en
+- text: na samym początku Mszy.
+  start: 17.408
+  duration: 1.932
+  lang: pl
+- text: Many years ago, I saw a Mass card.
+  start: 20.39
+  duration: 2.99
+  lang: en
+  new_paragraph: true
+- text: Wiele lat temu widziałam kartkę Mszalną.
+  start: 20.39
+  duration: 2.99
+  lang: pl
+  new_paragraph: true
+- text: It's a little card that a young priest,
+  start: 23.38
+  duration: 1.83
+  lang: en
+- text: To mała kartka, którą młody ksiądz
+  start: 23.38
+  duration: 1.83
+  lang: pl
+- text: a new priest, puts out as a sign of his day,
+  start: 25.21
+  duration: 3.21
+  lang: en
+- text: ', nowy ksiądz, kładzie jako znak swojego dnia,'
+  start: 25.21
+  duration: 3.21
+  lang: pl
+- text: and there’s usually on the card a little motto.
+  start: 28.42
+  duration: 2.63
+  lang: en
+- text: a na karcie zwykle jest małe motto.
+  start: 28.42
+  duration: 2.63
+  lang: pl
+- text: 'I was very struck by this card because here was the motto:'
+  start: 31.612
+  duration: 3.118
+  lang: en
+- text: 'Bardzo uderzyła mnie ta karta, ponieważ oto było motto:'
+  start: 31.612
+  duration: 3.118
+  lang: pl
+- text: “The Master has need of it.”
+  start: 35.9
+  duration: 3.49
+  lang: en
+  new_paragraph: true
+- text: „Mistrz jej potrzebuje”.
+  start: 35.9
+  duration: 3.49
+  lang: pl
+  new_paragraph: true
+- text: That was it.
+  start: 40.49
+  duration: 0.81
+  lang: en
+  new_paragraph: true
+- text: To było to.
+  start: 40.49
+  duration: 0.81
+  lang: pl
+  new_paragraph: true
+- text: I've seen a thousand mottoes for priests’ first Masses.
+  start: 41.472
+  duration: 3.598
+  lang: en
+- text: Widziałem tysiące motta na pierwsze msze księży.
+  start: 41.472
+  duration: 3.598
+  lang: pl
+- text: I had never seen that.
+  start: 45.36
+  duration: 1.83
+  lang: en
+- text: Nigdy tego nie widziałem.
+  start: 45.36
+  duration: 1.83
+  lang: pl
+- text: The Master has need of it.
+  start: 47.77
+  duration: 3.2
+  lang: en
+- text: Mistrz tego potrzebuje.
+  start: 47.77
+  duration: 3.2
+  lang: pl
+- text: Well, where's that from?
+  start: 51.75
+  duration: 1.06
+  lang: en
+- text: Skąd to jest?
+  start: 51.75
+  duration: 1.06
+  lang: pl
+- text: It's from our Gospel reading for Palm Sunday,
+  start: 52.81
+  duration: 2.95
+  lang: en
+- text: To z naszego czytania Ewangelii na Niedzielę Palmową
+  start: 52.81
+  duration: 2.95
+  lang: pl
+- text: the Gospel we read in advance of the procession with palms.
+  start: 56.44
+  duration: 3.16
+  lang: en
+- text: ', Ewangelii, którą czytamy przed procesją z palmami.'
+  start: 56.44
+  duration: 3.16
+  lang: pl
+- text: What's it describing?
+  start: 59.77
+  duration: 1.16
+  lang: en
+- text: Co to opisuje?
+  start: 59.77
+  duration: 1.16
+  lang: pl
+- text: Well, that moment when the Lord says to two of his disciples,
+  start: 60.93
+  duration: 4.45
+  lang: en
+- text: 'Cóż, ten moment, kiedy Pan mówi do dwóch swoich uczniów:'
+  start: 60.93
+  duration: 4.45
+  lang: pl
+- text: “I want you to go into the city
+  start: 65.38
+  duration: 1.74
+  lang: en
+- text: „Chcę, abyście poszli do miasta,
+  start: 65.38
+  duration: 1.74
+  lang: pl
+- text: to prepare for  the Last Supper.”
+  start: 67.195
+  duration: 2.525
+  lang: en
+- text: aby przygotować się na Ostatnią Wieczerzę”.
+  start: 67.195
+  duration: 2.525
+  lang: pl
+- text: And they're told to untether a donkey,
+  start: 70.17
+  duration: 3.56
+  lang: en
+- text: I kazano im uwolnić osła,
+  start: 70.17
+  duration: 3.56
+  lang: pl
+- text: and if there's any protest from the owner
+  start: 74.29
+  duration: 2.69
+  lang: en
+- text: a jeśli jest jakiś protest ze strony właściciela
+  start: 74.29
+  duration: 2.69
+  lang: pl
+- text: they are to say,
+  start: 76.98
+  duration: 1.26
+  lang: en
+- text: ', mają powiedzieć:'
+  start: 76.98
+  duration: 1.26
+  lang: pl
+- text: “The Master has need of it.”
+  start: 78.88
+  duration: 3.07
+  lang: en
+- text: „Mistrz tego potrzebuje”.
+  start: 78.88
+  duration: 3.07
+  lang: pl
+- text: Well, it struck me, that's a terrific motto
+  start: 82.98
+  duration: 3.04
+  lang: en
+  new_paragraph: true
+- text: Uderzyło mnie, że to wspaniałe motto
+  start: 82.98
+  duration: 3.04
+  lang: pl
+  new_paragraph: true
+- text: for a priest as he begins his priestly life.
+  start: 86.71
+  duration: 3.39
+  lang: en
+- text: dla księdza, który rozpoczyna swoje kapłańskie życie.
+  start: 86.71
+  duration: 3.39
+  lang: pl
+- text: Signaling the humility of the one being called,
+  start: 92.34
+  duration: 4.41
+  lang: en
+  new_paragraph: true
+- text: Sygnalizuje pokorę wezwanej,
+  start: 92.34
+  duration: 4.41
+  lang: pl
+  new_paragraph: true
+- text: like a donkey,
+  start: 97.32
+  duration: 2.14
+  lang: en
+- text: jak osioł,
+  start: 97.32
+  duration: 2.14
+  lang: pl
+- text: like a humble animal made for work,
+  start: 99.46
+  duration: 3.43
+  lang: en
+- text: jak skromne zwierzę stworzone do pracy,
+  start: 99.46
+  duration: 3.43
+  lang: pl
+- text: not very graceful,
+  start: 102.89
+  duration: 1.85
+  lang: en
+- text: niezbyt pełne wdzięku,
+  start: 102.89
+  duration: 1.85
+  lang: pl
+- text: unlikely to draw attention to itself.
+  start: 104.74
+  duration: 2.66
+  lang: en
+- text: raczej nie zwraca na siebie uwagi.
+  start: 104.74
+  duration: 2.66
+  lang: pl
+- text: Even that eloquent use of the impersonal pronoun.
+  start: 108.067
+  duration: 4.193
+  lang: en
+- text: Nawet to wymowne użycie zaimka bezosobowego.
+  start: 108.067
+  duration: 4.193
+  lang: pl
+- text: The Master has need of it.
+  start: 112.99
+  duration: 2.62
+  lang: en
+- text: Mistrz tego potrzebuje.
+  start: 112.99
+  duration: 2.62
+  lang: pl
+- text: Signaling again just the pure humility
+  start: 115.887
+  duration: 3.043
+  lang: en
+- text: Ponownie sygnalizując tylko czystą
+  start: 115.887
+  duration: 3.043
+  lang: pl
+- text: of the one  who's been chosen.
+  start: 118.97
+  duration: 2.53
+  lang: en
+- text: pokorę tego, który został wybrany.
+  start: 118.97
+  duration: 2.53
+  lang: pl
+- text: I love how that motto places the priest's entire life
+  start: 122.49
+  duration: 6.08
+  lang: en
+- text: Uwielbiam to, że to motto umieszcza całe życie księdza
+  start: 122.49
+  duration: 6.08
+  lang: pl
+- text: under the aegis of the Master.
+  start: 128.57
+  duration: 3.49
+  lang: en
+- text: pod egidą Mistrza.
+  start: 128.57
+  duration: 3.49
+  lang: pl
+- text: The Master needs this young person's life.
+  start: 134.23
+  duration: 4.51
+  lang: en
+  new_paragraph: true
+- text: Mistrz potrzebuje życia tej młodej osoby.
+  start: 134.23
+  duration: 4.51
+  lang: pl
+  new_paragraph: true
+- text: The Master needs this young person's service.
+  start: 138.74
+  duration: 3.31
+  lang: en
+- text: Mistrz potrzebuje służby tej młodej osoby.
+  start: 138.74
+  duration: 3.31
+  lang: pl
+- text: What he was saying was,
+  start: 142.27
+  duration: 1.54
+  lang: en
+- text: 'Mówił:'
+  start: 142.27
+  duration: 1.54
+  lang: pl
+- text: “My life doesn't belong to me.”
+  start: 144.07
+  duration: 2.04
+  lang: en
+- text: „Moje życie nie należy do mnie”.
+  start: 144.07
+  duration: 2.04
+  lang: pl
+- text: What he was saying was,
+  start: 147.27
+  duration: 1.46
+  lang: en
+  new_paragraph: true
+- text: 'Mówił:'
+  start: 147.27
+  duration: 1.46
+  lang: pl
+  new_paragraph: true
+- text: “I hereby surrender any sense of career,
+  start: 148.85
+  duration: 4.61
+  lang: en
+- text: „Niniejszym oddaję wszelkie poczucie kariery,
+  start: 148.85
+  duration: 4.61
+  lang: pl
+- text: any sense of my own plans, my own projects.
+  start: 153.87
+  duration: 3.1
+  lang: en
+- text: poczucie własnych planów, własnych projektów.
+  start: 153.87
+  duration: 3.1
+  lang: pl
+- text: No, no.
+  start: 156.97
+  duration: 0.65
+  lang: en
+- text: Nie? Nie.
+  start: 156.97
+  duration: 0.65
+  lang: pl
+- text: My whole life is about the Master
+  start: 157.78
+  duration: 3.673
+  lang: en
+- text: Całe moje życie dotyczy Mistrza
+  start: 157.78
+  duration: 3.673
+  lang: pl
+- text: and what the Master needs, and I'm willing to cooperate.”
+  start: 161.862
+  duration: 4.148
+  lang: en
+- text: i tego, czego Mistrz potrzebuje, i jestem chętny do współpracy”.
+  start: 161.862
+  duration: 4.148
+  lang: pl
+- text: He was to be an instrument of Christ's purpose, period.
+  start: 166.54
+  duration: 4.38
+  lang: en
+- text: Miał być narzędziem celu Chrystusa, kropka.
+  start: 166.54
+  duration: 4.38
+  lang: pl
+- text: Well, everybody, that's true in a
+  start: 172.17
+  duration: 1.85
+  lang: en
+  new_paragraph: true
+- text: Cóż, wszyscy, to prawda w
+  start: 172.17
+  duration: 1.85
+  lang: pl
+  new_paragraph: true
+- text: unique sense of the priest
+  start: 174.02
+  duration: 1.52
+  lang: en
+- text: wyjątkowym sensie księdza
+  start: 174.02
+  duration: 1.52
+  lang: pl
+- text: —and that would be talk for another day,
+  start: 175.54
+  duration: 1.78
+  lang: en
+- text: — i byłoby to omówione na inny dzień,
+  start: 175.54
+  duration: 1.78
+  lang: pl
+- text: to talk about the way the priest is used by Christ—
+  start: 177.37
+  duration: 3.19
+  lang: en
+- text: aby porozmawiać o tym, w jaki sposób kapłan jest używany przez Chrystusa —
+  start: 177.37
+  duration: 3.19
+  lang: pl
+- text: 'but I would say this:'
+  start: 180.56
+  duration: 1.854
+  lang: en
+- text: 'ale powiedziałbym tak:'
+  start: 180.56
+  duration: 1.854
+  lang: pl
+- text: This basic idea is true  of every baptized person.
+  start: 182.705
+  duration: 3.735
+  lang: en
+- text: ta podstawowa idea jest prawdziwa dla każdej ochrzczonej osoby  .
+  start: 182.705
+  duration: 3.735
+  lang: pl
+- text: Every baptized person should say
+  start: 188.41
+  duration: 2.559
+  lang: en
+  new_paragraph: true
+- text: Każdy ochrzczony powinien powiedzieć
+  start: 188.41
+  duration: 2.559
+  lang: pl
+  new_paragraph: true
+- text: in regard to  himself or herself,
+  start: 191.228
+  duration: 2.042
+  lang: en
+- text: 'o sobie:'
+  start: 191.228
+  duration: 2.042
+  lang: pl
+- text: “The Master has need of me.”
+  start: 194.28
+  duration: 2.04
+  lang: en
+  new_paragraph: true
+- text: „Mistrz mnie potrzebuje”.
+  start: 194.28
+  duration: 2.04
+  lang: pl
+  new_paragraph: true
+- text: We speak of Baptism as a character sacrament.
+  start: 198.22
+  duration: 2.78
+  lang: en
+  new_paragraph: true
+- text: Mówimy o chrzcie jako o sakramencie charakteru.
+  start: 198.22
+  duration: 2.78
+  lang: pl
+  new_paragraph: true
+- text: “Character,”
+  start: 201.75
+  duration: 1.03
+  lang: en
+- text: „Znak”,
+  start: 201.75
+  duration: 1.03
+  lang: pl
+- text: both Greek and Latin, has the sense of “brand.”
+  start: 202.78
+  duration: 3.22
+  lang: en
+- text: zarówno po grecku, jak i po łacinie, ma znaczenie „marki”.
+  start: 202.78
+  duration: 3.22
+  lang: pl
+- text: And again, think of the animal world.
+  start: 207.05
+  duration: 1.84
+  lang: en
+  new_paragraph: true
+- text: I znowu pomyśl o świecie zwierząt.
+  start: 207.05
+  duration: 1.84
+  lang: pl
+  new_paragraph: true
+- text: When an owner was branding an animal he'd use a “character.”
+  start: 208.89
+  duration: 3.92
+  lang: en
+- text: Kiedy właściciel znakował zwierzę, używał „postaci”.
+  start: 208.89
+  duration: 3.92
+  lang: pl
+- text: Or, when a young man entered the Roman army,
+  start: 213.13
+  duration: 2.56
+  lang: en
+- text: Lub, gdy młody człowiek wszedł do rzymskiej armii,
+  start: 213.13
+  duration: 2.56
+  lang: pl
+- text: he was branded usually on the upper arm with a “character,”
+  start: 215.69
+  duration: 4.98
+  lang: en
+- text: był zwykle piętnowany na ramieniu „postacią”,
+  start: 215.69
+  duration: 4.98
+  lang: pl
+- text: and the brand marked him as a member of the Roman army,
+  start: 221.03
+  duration: 3.86
+  lang: en
+- text: a piętno oznaczało go jako członka armii rzymskiej,
+  start: 221.03
+  duration: 3.86
+  lang: pl
+- text: just as the brand marked the animal as
+  start: 224.89
+  duration: 1.93
+  lang: en
+- text: tak jak piętno oznaczało zwierzę jako
+  start: 224.89
+  duration: 1.93
+  lang: pl
+- text: belonging to the owner.
+  start: 226.82
+  duration: 1.36
+  lang: en
+- text: należące do właściciela  .
+  start: 226.82
+  duration: 1.36
+  lang: pl
+- text: So, when a baby's baptized, when an adult is baptized,
+  start: 228.5
+  duration: 5.81
+  lang: en
+- text: Tak więc, kiedy dziecko zostaje ochrzczone, kiedy dorosły zostaje ochrzczony
+  start: 228.5
+  duration: 5.81
+  lang: pl
+- text: he or she receives a brand, a character, that says,
+  start: 235.45
+  duration: 5.29
+  lang: en
+  new_paragraph: true
+- text: ', otrzymuje piętno , charakter, który mówi:'
+  start: 235.45
+  duration: 5.29
+  lang: pl
+  new_paragraph: true
+- text: “I belong to Christ. The Master has need of me,
+  start: 240.74
+  duration: 5.35
+  lang: en
+- text: „Ja należę do Chrystusa. Mistrz mnie potrzebuje
+  start: 240.74
+  duration: 5.35
+  lang: pl
+- text: and my whole life now is about that,
+  start: 247.17
+  duration: 2.05
+  lang: en
+  new_paragraph: true
+- text: i całe moje życie teraz dotyczy tego, a
+  start: 247.17
+  duration: 2.05
+  lang: pl
+  new_paragraph: true
+- text: not about my projects and plans.”
+  start: 249.22
+  duration: 1.65
+  lang: en
+- text: nie moich projektów i planów”.
+  start: 249.22
+  duration: 1.65
+  lang: pl
+- text: Let me say a quick word about need.
+  start: 252.27
+  duration: 1.75
+  lang: en
+  new_paragraph: true
+- text: Pozwolę sobie krótko powiedzieć o potrzebie.
+  start: 252.27
+  duration: 1.75
+  lang: pl
+  new_paragraph: true
+- text: It might strike you as odd.
+  start: 254.02
+  duration: 1.67
+  lang: en
+- text: Może ci się to wydać dziwne.
+  start: 254.02
+  duration: 1.67
+  lang: pl
+- text: God doesn't need anything,
+  start: 256.75
+  duration: 1.516
+  lang: en
+  new_paragraph: true
+- text: Bóg niczego nie potrzebuje,
+  start: 256.75
+  duration: 1.516
+  lang: pl
+  new_paragraph: true
+- text: and that's  strictly speaking true.
+  start: 258.306
+  duration: 2.084
+  lang: en
+- text: a ściśle mówiąc to prawda.
+  start: 258.306
+  duration: 2.084
+  lang: pl
+- text: God's the Lord of the whole universe.
+  start: 260.7
+  duration: 1.47
+  lang: en
+- text: Bóg jest Panem całego wszechświata.
+  start: 260.7
+  duration: 1.47
+  lang: pl
+- text: God is the unconditioned act of being itself.
+  start: 262.17
+  duration: 2.25
+  lang: en
+- text: Bóg jest nieuwarunkowanym aktem samego bycia.
+  start: 262.17
+  duration: 2.25
+  lang: pl
+- text: God's the creator of all things,
+  start: 264.42
+  duration: 1.36
+  lang: en
+- text: Bóg jest stwórcą wszystkich rzeczy,
+  start: 264.42
+  duration: 1.36
+  lang: pl
+- text: so God needs nothing.
+  start: 265.78
+  duration: 1.6
+  lang: en
+- text: więc Bóg niczego nie potrzebuje.
+  start: 265.78
+  duration: 1.6
+  lang: pl
+- text: God doesn't need our existence.
+  start: 267.38
+  duration: 2.08
+  lang: en
+- text: Bóg nie potrzebuje naszego istnienia.
+  start: 267.38
+  duration: 2.08
+  lang: pl
+- text: God doesn't need our good works.
+  start: 269.46
+  duration: 2.0
+  lang: en
+- text: Bóg nie potrzebuje naszych dobrych uczynków.
+  start: 269.46
+  duration: 2.0
+  lang: pl
+- text: God could accomplish what he wants on his own,
+  start: 271.46
+  duration: 2.16
+  lang: en
+- text: Bóg może sam osiągnąć to, czego chce,
+  start: 271.46
+  duration: 2.16
+  lang: pl
+- text: that's true.
+  start: 273.62
+  duration: 0.97
+  lang: en
+- text: to prawda.
+  start: 273.62
+  duration: 0.97
+  lang: pl
+- text: But, it speaks to the privilege,
+  start: 275.14
+  duration: 2.64
+  lang: en
+- text: Ale mówi o przywileju,
+  start: 275.14
+  duration: 2.64
+  lang: pl
+- text: everybody, of the Christian life.
+  start: 277.78
+  duration: 1.75
+  lang: en
+- text: wszystkich, życia chrześcijańskiego.
+  start: 277.78
+  duration: 1.75
+  lang: pl
+- text: God delights in allowing us to cooperate with his providence.
+  start: 279.65
+  duration: 6.9
+  lang: en
+- text: Bóg z upodobaniem pozwala nam współpracować z Jego opatrznością.
+  start: 279.65
+  duration: 6.9
+  lang: pl
+- text: Sure, God could accomplish things on his own,
+  start: 287.23
+  duration: 2.11
+  lang: en
+- text: Jasne, Bóg mógł dokonać wszystkiego sam,
+  start: 287.23
+  duration: 2.11
+  lang: pl
+- text: but he delights in letting us participate,
+  start: 289.43
+  duration: 3.79
+  lang: en
+- text: ale cieszy się, że pozwala nam uczestniczyć,
+  start: 289.43
+  duration: 3.79
+  lang: pl
+- text: giving us the privilege.
+  start: 293.22
+  duration: 1.52
+  lang: en
+- text: dając nam przywilej.
+  start: 293.22
+  duration: 1.52
+  lang: pl
+- text: Thomas Aquinas speaks of the dignity of causality,
+  start: 295.32
+  duration: 3.97
+  lang: en
+- text: Tomasz z Akwinu mówi o godności przyczynowości,
+  start: 295.32
+  duration: 3.97
+  lang: pl
+- text: that we can act as instruments
+  start: 299.44
+  duration: 1.85
+  lang: en
+- text: która polega na tym, że możemy działać jako narzędzia
+  start: 299.44
+  duration: 1.85
+  lang: pl
+- text: or secondary causes for God's purpose.
+  start: 301.29
+  duration: 3.55
+  lang: en
+- text: lub przyczyny drugorzędne dla celu Bożego.
+  start: 301.29
+  duration: 3.55
+  lang: pl
+- text: Doesn't need us in the strict sense,
+  start: 305.1
+  duration: 2.13
+  lang: en
+- text: Nie potrzebuje nas w ścisłym tego słowa znaczeniu,
+  start: 305.1
+  duration: 2.13
+  lang: pl
+- text: but he needs us in the sense that he wants
+  start: 307.47
+  duration: 1.99
+  lang: en
+- text: ale potrzebuje nas w tym sensie, że chce
+  start: 307.47
+  duration: 1.99
+  lang: pl
+- text: to draw us into his work.
+  start: 309.46
+  duration: 3.05
+  lang: en
+- text: nas wciągnąć w swoją pracę.
+  start: 309.46
+  duration: 3.05
+  lang: pl
+- text: And see, once we get this,
+  start: 313.72
+  duration: 2.765
+  lang: en
+  new_paragraph: true
+- text: I widzisz, kiedy już to zrozumiemy,
+  start: 313.72
+  duration: 2.765
+  lang: pl
+  new_paragraph: true
+- text: I think everything changes in our lives.
+  start: 317.432
+  duration: 3.148
+  lang: en
+- text: myślę, że wszystko się zmienia w naszym życiu.
+  start: 317.432
+  duration: 3.148
+  lang: pl
+- text: Once we understand this principle,
+  start: 321.16
+  duration: 2.41
+  lang: en
+- text: Kiedy zrozumiemy tę zasadę,
+  start: 321.16
+  duration: 2.41
+  lang: pl
+- text: everything is revolutionized.
+  start: 323.57
+  duration: 1.36
+  lang: en
+- text: wszystko się zrewolucjonizuje.
+  start: 323.57
+  duration: 1.36
+  lang: pl
+- text: Because customarily we think,
+  start: 326.0
+  duration: 1.84
+  lang: en
+  new_paragraph: true
+- text: 'Ponieważ zwyczajowo myślimy:'
+  start: 326.0
+  duration: 1.84
+  lang: pl
+  new_paragraph: true
+- text: “Well, yeah, my talents and capacities and abilities,
+  start: 328.34
+  duration: 3.12
+  lang: en
+- text: „No cóż, moje talenty i zdolności i zdolności
+  start: 328.34
+  duration: 3.12
+  lang: pl
+- text: they're for me to make my life better,
+  start: 331.46
+  duration: 3.2
+  lang: en
+- text: są dla mnie, aby uczynić moje życie lepszym
+  start: 331.46
+  duration: 3.2
+  lang: pl
+- text: to make my life more accomplished
+  start: 334.66
+  duration: 1.84
+  lang: en
+- text: ', uczynić moje życie bardziej spełnionym'
+  start: 334.66
+  duration: 1.84
+  lang: pl
+- text: so I can do what I want.
+  start: 336.5
+  duration: 1.67
+  lang: en
+- text: ', abym mógł robić to, co chcę.  Mam'
+  start: 336.5
+  duration: 1.67
+  lang: pl
+- text: Lucky me that I have these gifts
+  start: 338.48
+  duration: 2.34
+  lang: en
+- text: szczęście, że mam te prezenty,
+  start: 338.48
+  duration: 2.34
+  lang: pl
+- text: so I can accomplish my goals.”
+  start: 340.82
+  duration: 2.18
+  lang: en
+- text: dzięki którym mogę osiągnąć swoje cele”.
+  start: 340.82
+  duration: 2.18
+  lang: pl
+- text: But see, in light of this principle,
+  start: 344.26
+  duration: 2.2
+  lang: en
+  new_paragraph: true
+- text: Ale zobaczcie, w świetle tej zasady,
+  start: 344.26
+  duration: 2.2
+  lang: pl
+  new_paragraph: true
+- text: we should turn all of that around,
+  start: 347.72
+  duration: 2.46
+  lang: en
+  new_paragraph: true
+- text: powinniśmy odwrócić to wszystko,
+  start: 347.72
+  duration: 2.46
+  lang: pl
+  new_paragraph: true
+- text: turn that on its head.
+  start: 350.18
+  duration: 1.52
+  lang: en
+- text: postawić to na głowie.
+  start: 350.18
+  duration: 1.52
+  lang: pl
+- text: Rather, the gifts we have
+  start: 352.801
+  duration: 2.419
+  lang: en
+  new_paragraph: true
+- text: Raczej dary, które posiadamy
+  start: 352.801
+  duration: 2.419
+  lang: pl
+  new_paragraph: true
+- text: —by the way, properly named gifts,
+  start: 355.28
+  duration: 2.97
+  lang: en
+- text: — nawiasem mówiąc, właściwie nazwane dary, a
+  start: 355.28
+  duration: 2.97
+  lang: pl
+- text: not things that I've earned or deserved—
+  start: 358.52
+  duration: 2.04
+  lang: en
+- text: nie rzeczy, na które zasłużyłem lub na które
+  start: 358.52
+  duration: 2.04
+  lang: pl
+- text: the gifts I receive are for the sake of Christ
+  start: 361.26
+  duration: 3.25
+  lang: en
+- text: zasłużyłem — dary, które otrzymuję, są dla Chrystusa
+  start: 361.26
+  duration: 3.25
+  lang: pl
+- text: so that Christ can use them for his salvific purpose.
+  start: 364.99
+  duration: 3.94
+  lang: en
+- text: ', aby Chrystus mógł ich użyć w swoim zbawczym celu.'
+  start: 364.99
+  duration: 3.94
+  lang: pl
+- text: So let's make it more concrete.
+  start: 369.94
+  duration: 2.31
+  lang: en
+  new_paragraph: true
+- text: Więc zróbmy to bardziej konkretnie.
+  start: 369.94
+  duration: 2.31
+  lang: pl
+  new_paragraph: true
+- text: Did you ever ask . . . Let's say  you're a very smart person.
+  start: 373.455
+  duration: 2.335
+  lang: en
+  new_paragraph: true
+- text: Czy kiedykolwiek pytałeś .  .  .  Powiedzmy, że jesteś bardzo mądrą osobą.
+  start: 373.455
+  duration: 2.335
+  lang: pl
+  new_paragraph: true
+- text: You're intelligent.
+  start: 375.94
+  duration: 0.96
+  lang: en
+- text: Jesteś inteligentny.
+  start: 375.94
+  duration: 0.96
+  lang: pl
+- text: You've always done well in school.
+  start: 376.9
+  duration: 1.2
+  lang: en
+- text: Zawsze dobrze sobie radziłeś w szkole.
+  start: 376.9
+  duration: 1.2
+  lang: pl
+- text: You've got advanced degrees.
+  start: 378.1
+  duration: 1.19
+  lang: en
+- text: Masz zaawansowane stopnie naukowe.
+  start: 378.1
+  duration: 1.19
+  lang: pl
+- text: You're quick on your feet.
+  start: 379.29
+  duration: 1.53
+  lang: en
+- text: Szybko wstajesz.
+  start: 379.29
+  duration: 1.53
+  lang: pl
+- text: You're articulate.
+  start: 380.82
+  duration: 1.18
+  lang: en
+- text: Jesteś elokwentny.
+  start: 380.82
+  duration: 1.18
+  lang: pl
+- text: Do you ever ask,
+  start: 382.53
+  duration: 0.71
+  lang: en
+- text: 'Czy kiedykolwiek pytasz:'
+  start: 382.53
+  duration: 0.71
+  lang: pl
+- text: “Hmm, how come I have such capacity?
+  start: 383.53
+  duration: 3.01
+  lang: en
+- text: „Hmm, jak to możliwe, że mam taką zdolność?
+  start: 383.53
+  duration: 3.01
+  lang: pl
+- text: How come I'm so smart?”
+  start: 387.25
+  duration: 1.03
+  lang: en
+- text: Dlaczego jestem taki mądry?
+  start: 387.25
+  duration: 1.03
+  lang: pl
+- text: Oh, so you can show off and you can accomplish
+  start: 389.34
+  duration: 2.28
+  lang: en
+  new_paragraph: true
+- text: Och, abyś mógł się popisać i dokonać
+  start: 389.34
+  duration: 2.28
+  lang: pl
+  new_paragraph: true
+- text: great things for yourself?
+  start: 391.62
+  duration: 0.95
+  lang: en
+- text: wielkich rzeczy dla siebie?
+  start: 391.62
+  duration: 0.95
+  lang: pl
+- text: No, no, no.
+  start: 392.57
+  duration: 1.16
+  lang: en
+- text: Nie nie nie.
+  start: 392.57
+  duration: 1.16
+  lang: pl
+- text: It's to serve Christ and his purposes.
+  start: 395.45
+  duration: 2.13
+  lang: en
+  new_paragraph: true
+- text: Ma służyć Chrystusowi i jego celom.
+  start: 395.45
+  duration: 2.13
+  lang: pl
+  new_paragraph: true
+- text: To give your mind,
+  start: 397.77
+  duration: 1.21
+  lang: en
+- text: Oddaj swój umysł
+  start: 397.77
+  duration: 1.21
+  lang: pl
+- text: to give your sharp and acute mind to Christ
+  start: 398.98
+  duration: 3.65
+  lang: en
+- text: ', oddaj swój bystry i bystry umysł Chrystusowi,'
+  start: 398.98
+  duration: 3.65
+  lang: pl
+- text: that he might use it.
+  start: 403.8
+  duration: 1.08
+  lang: en
+  new_paragraph: true
+- text: aby mógł go użyć.
+  start: 403.8
+  duration: 1.08
+  lang: pl
+  new_paragraph: true
+- text: Think here of a great saint such as Thomas Aquinas,
+  start: 404.93
+  duration: 2.29
+  lang: en
+- text: Pomyśl o wielkim świętym, takim jak Tomasz z Akwinu,
+  start: 404.93
+  duration: 2.29
+  lang: pl
+- text: my hero, one of the masterminds of Western civilization,
+  start: 407.22
+  duration: 4.0
+  lang: en
+- text: mój bohater, jeden z mózgów cywilizacji zachodniej,
+  start: 407.22
+  duration: 4.0
+  lang: pl
+- text: ranking with Plato and Kant and one of the greatest minds.
+  start: 411.22
+  duration: 2.91
+  lang: en
+- text: plasujący się obok Platona i Kanta i jeden z największych umysłów.
+  start: 411.22
+  duration: 2.91
+  lang: pl
+- text: How beautiful that Aquinas gave that mind to Christ,
+  start: 414.65
+  duration: 4.18
+  lang: en
+- text: Jak pięknie, że Tomasz z Akwinu oddał ten umysł Chrystusowi,
+  start: 414.65
+  duration: 4.18
+  lang: pl
+- text: used it to serve Christ's purposes.
+  start: 419.67
+  duration: 1.87
+  lang: en
+- text: wykorzystał go do służenia Chrystusowym celom.
+  start: 419.67
+  duration: 1.87
+  lang: pl
+- text: The Master had need of it, and Aquinas knew that.
+  start: 421.54
+  duration: 3.47
+  lang: en
+- text: Mistrz tego potrzebował i Akwinata o tym wiedział.
+  start: 421.54
+  duration: 3.47
+  lang: pl
+- text: Let's say you're really good with people.
+  start: 426.64
+  duration: 2.11
+  lang: en
+  new_paragraph: true
+- text: Powiedzmy, że jesteś naprawdę dobry w kontaktach z ludźmi.
+  start: 426.64
+  duration: 2.11
+  lang: pl
+  new_paragraph: true
+- text: You're an extroverted, gregarious type.
+  start: 429.82
+  duration: 3.61
+  lang: en
+  new_paragraph: true
+- text: Jesteś ekstrawertycznym, towarzyskim typem.
+  start: 429.82
+  duration: 3.61
+  lang: pl
+  new_paragraph: true
+- text: People like you. You're popular.
+  start: 433.9
+  duration: 2.45
+  lang: en
+- text: Ludzie jak ty. Jesteś popularny.
+  start: 433.9
+  duration: 2.45
+  lang: pl
+- text: “Hey, good for me. That means I got
+  start: 436.98
+  duration: 1.92
+  lang: en
+- text: „Hej, dobrze dla mnie. To oznacza, że
+  start: 436.98
+  duration: 1.92
+  lang: pl
+- text: a lot of friends and I'm a popular guy.”
+  start: 438.9
+  duration: 2.95
+  lang: en
+- text: mam wielu przyjaciół i jestem popularnym facetem”.
+  start: 438.9
+  duration: 2.95
+  lang: pl
+- text: Yeah, that's a very superficial way
+  start: 442.18
+  duration: 2.23
+  lang: en
+- text: Tak, to bardzo powierzchowny
+  start: 442.18
+  duration: 2.23
+  lang: pl
+- text: to look at it.
+  start: 444.41
+  duration: 0.9
+  lang: en
+- text: sposób patrzenia na to.
+  start: 444.41
+  duration: 0.9
+  lang: pl
+- text: What if you were to say,
+  start: 445.86
+  duration: 0.64
+  lang: en
+- text: 'Co by było, gdybyś powiedział:'
+  start: 445.86
+  duration: 0.64
+  lang: pl
+- text: “No no, I've received this gift of gregariousness
+  start: 446.5
+  duration: 3.47
+  lang: en
+- text: „Nie, nie, otrzymałem ten dar towarzyskości
+  start: 446.5
+  duration: 3.47
+  lang: pl
+- text: so I could give it back to Christ,
+  start: 451.26
+  duration: 1.73
+  lang: en
+  new_paragraph: true
+- text: ', abym mógł oddać go Chrystusowi'
+  start: 451.26
+  duration: 1.73
+  lang: pl
+  new_paragraph: true
+- text: so I could use that gift now
+  start: 453.88
+  duration: 1.58
+  lang: en
+- text: ', abym mógł teraz użyć tego daru,'
+  start: 453.88
+  duration: 1.58
+  lang: pl
+- text: to be an evangelist to reach out to people.
+  start: 455.46
+  duration: 3.92
+  lang: en
+- text: aby być ewangelistą, aby dotrzeć do ludzi.
+  start: 455.46
+  duration: 3.92
+  lang: pl
+- text: If they like me, I'm popular, well good,
+  start: 459.38
+  duration: 2.08
+  lang: en
+- text: Jeśli mnie lubią, jestem popularny, no cóż, dobry,
+  start: 459.38
+  duration: 2.08
+  lang: pl
+- text: that gives me a sort of entree into their lives,
+  start: 461.46
+  duration: 2.08
+  lang: en
+- text: to daje mi coś w rodzaju wstępu do ich życia
+  start: 461.46
+  duration: 2.08
+  lang: pl
+- text: and I can speak therefore of the Lord more efficaciously.”
+  start: 463.54
+  duration: 3.97
+  lang: en
+- text: i dlatego mogę skuteczniej mówić o Panu”.
+  start: 463.54
+  duration: 3.97
+  lang: pl
+- text: Why are you so good working with kids?
+  start: 469.97
+  duration: 1.57
+  lang: en
+  new_paragraph: true
+- text: Dlaczego tak dobrze pracujesz z dziećmi?
+  start: 469.97
+  duration: 1.57
+  lang: pl
+  new_paragraph: true
+- text: Let's say you're really good at that,
+  start: 471.54
+  duration: 1.36
+  lang: en
+- text: Powiedzmy, że jesteś w tym naprawdę dobry,
+  start: 471.54
+  duration: 1.36
+  lang: pl
+- text: and kids respond to you and you know how to reach them.
+  start: 472.9
+  duration: 3.59
+  lang: en
+- text: a dzieci reagują na ciebie i wiesz, jak do nich dotrzeć.
+  start: 472.9
+  duration: 3.59
+  lang: pl
+- text: Well, maybe you're like Don Bosco,
+  start: 476.87
+  duration: 1.76
+  lang: en
+- text: Cóż, może jesteś jak Ks. Bosko
+  start: 476.87
+  duration: 1.76
+  lang: pl
+- text: the great saint who dedicated his life
+  start: 478.96
+  duration: 2.33
+  lang: en
+- text: ', wielki święty, który poświęcił swoje'
+  start: 478.96
+  duration: 2.33
+  lang: pl
+- text: to caring for kids.
+  start: 481.29
+  duration: 1.28
+  lang: en
+- text: życie opiece nad dziećmi.
+  start: 481.29
+  duration: 1.28
+  lang: pl
+- text: Maybe it's because Christ wants you
+  start: 482.57
+  duration: 1.61
+  lang: en
+- text: Może dlatego, że Chrystus chce,
+  start: 482.57
+  duration: 1.61
+  lang: pl
+- text: to use that particular gift for his purpose.
+  start: 484.18
+  duration: 3.86
+  lang: en
+- text: abyś użył tego szczególnego daru do jego celów.
+  start: 484.18
+  duration: 3.86
+  lang: pl
+- text: Why do you have the gift of courage?
+  start: 490.17
+  duration: 1.65
+  lang: en
+  new_paragraph: true
+- text: Dlaczego masz dar odwagi?
+  start: 490.17
+  duration: 1.65
+  lang: pl
+  new_paragraph: true
+- text: I think of friends of mine, and even as little kids
+  start: 492.91
+  duration: 2.22
+  lang: en
+  new_paragraph: true
+- text: Myślę o moich przyjaciołach i już jako małe
+  start: 492.91
+  duration: 2.22
+  lang: pl
+  new_paragraph: true
+- text: they were the first ones to try something difficult.
+  start: 495.13
+  duration: 2.97
+  lang: en
+- text: dzieci jako pierwsi spróbowali czegoś trudnego.
+  start: 495.13
+  duration: 2.97
+  lang: pl
+- text: There was a challenge or there was an opportunity,
+  start: 498.56
+  duration: 2.34
+  lang: en
+- text: Pojawiło się wyzwanie lub była okazja,
+  start: 498.56
+  duration: 2.34
+  lang: pl
+- text: and they were the first ones in line to try it
+  start: 500.9
+  duration: 1.83
+  lang: en
+- text: a oni jako pierwsi w kolejce
+  start: 500.9
+  duration: 1.83
+  lang: pl
+- text: and they were kind of throwing caution to the wind.
+  start: 502.73
+  duration: 2.16
+  lang: en
+- text: próbowali i rzucali ostrożność na wiatr.
+  start: 502.73
+  duration: 2.16
+  lang: pl
+- text: And in the course of their lives,
+  start: 504.95
+  duration: 1.72
+  lang: en
+- text: I w ciągu swojego życia
+  start: 504.95
+  duration: 1.72
+  lang: pl
+- text: they continued to be courageous,
+  start: 506.76
+  duration: 1.74
+  lang: en
+- text: nadal byli odważni,
+  start: 506.76
+  duration: 1.74
+  lang: pl
+- text: willing to try things, take on dangers.
+  start: 508.5
+  duration: 2.73
+  lang: en
+- text: chętni do próbowania, podejmowania niebezpieczeństw.
+  start: 508.5
+  duration: 2.73
+  lang: pl
+- text: Well, “That's for me so I can be a cool
+  start: 512.33
+  duration: 2.8
+  lang: en
+  new_paragraph: true
+- text: Cóż, „To dla mnie , żebym mógł być fajnym
+  start: 512.33
+  duration: 2.8
+  lang: pl
+  new_paragraph: true
+- text: kind of daredevil”?
+  start: 515.13
+  duration: 1.49
+  lang: en
+- text: rodzajem śmiałka”?
+  start: 515.13
+  duration: 1.49
+  lang: pl
+- text: Or, maybe Christ gave you that courage
+  start: 517.25
+  duration: 4.38
+  lang: en
+- text: A może Chrystus dał ci odwagę
+  start: 517.25
+  duration: 4.38
+  lang: pl
+- text: that you might use it for his purposes.
+  start: 523.11
+  duration: 2.53
+  lang: en
+  new_paragraph: true
+- text: ', abyś mógł ją wykorzystać do jego celów.'
+  start: 523.11
+  duration: 2.53
+  lang: pl
+  new_paragraph: true
+- text: Think of the saints now up and down the centuries
+  start: 526.2
+  duration: 2.14
+  lang: en
+- text: Pomyśl o świętych na przestrzeni
+  start: 526.2
+  duration: 2.14
+  lang: pl
+- text: —not just the martyrs, they're the limit case,
+  start: 528.34
+  duration: 2.28
+  lang: en
+- text: wieków – nie tylko o męczennikach, oni są skrajnym przypadkiem, o
+  start: 528.34
+  duration: 2.28
+  lang: pl
+- text: people whose courage served Christ—
+  start: 530.79
+  duration: 3.72
+  lang: en
+- text: ludziach, których odwaga służyła Chrystusowi –
+  start: 530.79
+  duration: 3.72
+  lang: pl
+- text: but all the saints who were called upon
+  start: 534.61
+  duration: 2.61
+  lang: en
+- text: ale o wszystkich świętych, którzy zostali wezwani
+  start: 534.61
+  duration: 2.61
+  lang: pl
+- text: to do dangerous and difficult things.
+  start: 537.22
+  duration: 2.62
+  lang: en
+- text: do robienia niebezpiecznych i trudnych rzeczy.
+  start: 537.22
+  duration: 2.62
+  lang: pl
+- text: Think of a Francis Xavier, a moving figure to me,
+  start: 540.21
+  duration: 3.232
+  lang: en
+- text: Pomyśl o Francisie Ksawerze , poruszającej dla mnie postaci,
+  start: 540.21
+  duration: 3.232
+  lang: pl
+- text: leaving behind his life in Europe,
+  start: 543.786
+  duration: 2.314
+  lang: en
+- text: zostawiając za sobą swoje życie w Europie,
+  start: 543.786
+  duration: 2.314
+  lang: pl
+- text: leaving behind everybody he knew,
+  start: 546.1
+  duration: 1.81
+  lang: en
+- text: zostawiając za sobą wszystkich, których znał,
+  start: 546.1
+  duration: 1.81
+  lang: pl
+- text: going on the leaky boats of that era,
+  start: 548.0
+  duration: 3.57
+  lang: en
+- text: płynąc przeciekającymi łodziami tamtej epoki
+  start: 548.0
+  duration: 3.57
+  lang: pl
+- text: going across the world to proclaim the Gospel
+  start: 551.6
+  duration: 3.3
+  lang: en
+- text: ', przemierzając świat, by głosić Ewangelię'
+  start: 551.6
+  duration: 3.3
+  lang: pl
+- text: to people that he knew nothing about.
+  start: 554.9
+  duration: 2.13
+  lang: en
+- text: ludziom, o których nic nie wiedział.
+  start: 554.9
+  duration: 2.13
+  lang: pl
+- text: Dying thousands of miles from his home.
+  start: 557.3
+  duration: 3.17
+  lang: en
+- text: Umiera tysiące mil od swojego domu.
+  start: 557.3
+  duration: 3.17
+  lang: pl
+- text: His marvelous courage that enabled him to do that.
+  start: 561.0
+  duration: 3.93
+  lang: en
+- text: Jego cudowna odwaga, która mu to umożliwiła.
+  start: 561.0
+  duration: 3.93
+  lang: pl
+- text: Think of an Isaac Jogues who came from France
+  start: 565.76
+  duration: 2.82
+  lang: en
+- text: Pomyśl o Izaaku Jogues, który przybył z Francji
+  start: 565.76
+  duration: 2.82
+  lang: pl
+- text: to this country to work with the native peoples
+  start: 568.58
+  duration: 3.75
+  lang: en
+- text: do tego kraju, aby pracować z rdzennymi ludami
+  start: 568.58
+  duration: 3.75
+  lang: pl
+- text: and found himself brutally tortured
+  start: 572.63
+  duration: 2.44
+  lang: en
+- text: i został brutalnie
+  start: 572.63
+  duration: 2.44
+  lang: pl
+- text: even to the point of losing his fingers
+  start: 575.29
+  duration: 2.01
+  lang: en
+- text: torturowany do tego stopnia, że ​​stracił
+  start: 575.29
+  duration: 2.01
+  lang: pl
+- text: on his right hand.
+  start: 577.3
+  duration: 0.99
+  lang: en
+- text: palce na prawej ręce.
+  start: 577.3
+  duration: 0.99
+  lang: pl
+- text: He returns to France and he was lionized.
+  start: 578.64
+  duration: 2.26
+  lang: en
+- text: Wraca do Francji i został lwiony.
+  start: 578.64
+  duration: 2.26
+  lang: pl
+- text: You know, people admired him legitimately
+  start: 580.9
+  duration: 1.94
+  lang: en
+- text: Wiesz, ludzie słusznie go podziwiali
+  start: 580.9
+  duration: 1.94
+  lang: pl
+- text: for his great courage.
+  start: 583.18
+  duration: 1.03
+  lang: en
+- text: za jego wielką odwagę.
+  start: 583.18
+  duration: 1.03
+  lang: pl
+- text: But Isaac Jogues decided,
+  start: 585.21
+  duration: 1.55
+  lang: en
+  new_paragraph: true
+- text: 'Ale Isaac Jogues zdecydował:'
+  start: 585.21
+  duration: 1.55
+  lang: pl
+  new_paragraph: true
+- text: “I'm going to go back. I'm going to go back
+  start: 586.82
+  duration: 2.618
+  lang: en
+- text: „Wrócę. Wrócę
+  start: 586.82
+  duration: 2.618
+  lang: pl
+- text: to the same people who had been so cruel to me
+  start: 589.478
+  duration: 3.012
+  lang: en
+- text: do tych samych ludzi, którzy byli dla mnie tak okrutni,
+  start: 589.478
+  duration: 3.012
+  lang: pl
+- text: because I want to preach the Gospel to them.”
+  start: 592.49
+  duration: 1.95
+  lang: en
+- text: ponieważ chcę im głosić Ewangelię”.
+  start: 592.49
+  duration: 1.95
+  lang: pl
+- text: And he lost life in that process.
+  start: 594.95
+  duration: 1.73
+  lang: en
+- text: I stracił życie w tym procesie.
+  start: 594.95
+  duration: 1.73
+  lang: pl
+- text: Why do you have courage if you've got it?
+  start: 597.97
+  duration: 1.81
+  lang: en
+  new_paragraph: true
+- text: Dlaczego masz odwagę, jeśli ją masz?
+  start: 597.97
+  duration: 1.81
+  lang: pl
+  new_paragraph: true
+- text: It's not for your purposes, not for your career,
+  start: 599.78
+  duration: 3.04
+  lang: en
+- text: To nie jest dla twoich celów, nie dla twojej kariery,
+  start: 599.78
+  duration: 3.04
+  lang: pl
+- text: not for your advancement, but maybe the courage
+  start: 602.82
+  duration: 2.4
+  lang: en
+- text: nie dla twojego awansu, ale może odwaga
+  start: 602.82
+  duration: 2.4
+  lang: pl
+- text: you've been given is because Christ wants you
+  start: 605.22
+  duration: 2.56
+  lang: en
+- text: ', którą otrzymałeś, wynika z tego, że Chrystus chce,'
+  start: 605.22
+  duration: 2.56
+  lang: pl
+- text: to use that to do his sometimes
+  start: 607.78
+  duration: 3.27
+  lang: en
+- text: abyś użył jej do wykonywania jego czasami
+  start: 607.78
+  duration: 3.27
+  lang: pl
+- text: dangerous and difficult work.
+  start: 611.05
+  duration: 2.16
+  lang: en
+- text: niebezpiecznej i trudnej pracy.
+  start: 611.05
+  duration: 2.16
+  lang: pl
+- text: How come you're such a good teacher?
+  start: 613.99
+  duration: 2.88
+  lang: en
+- text: Dlaczego jesteś tak dobrym nauczycielem?
+  start: 613.99
+  duration: 2.88
+  lang: pl
+- text: Maybe you've just got a way with communicating the truth.
+  start: 617.44
+  duration: 3.38
+  lang: en
+- text: Może po prostu masz sposób na przekazanie prawdy.
+  start: 617.44
+  duration: 3.38
+  lang: pl
+- text: You know, you're not going to make a lot of money
+  start: 621.86
+  duration: 2.0
+  lang: en
+  new_paragraph: true
+- text: Wiesz, nie zarobisz na tym dużo
+  start: 621.86
+  duration: 2.0
+  lang: pl
+  new_paragraph: true
+- text: using that in the world.
+  start: 623.86
+  duration: 1.29
+  lang: en
+- text: pieniędzy na świecie.
+  start: 623.86
+  duration: 1.29
+  lang: pl
+- text: Maybe it's because Christ wants you
+  start: 626.61
+  duration: 1.933
+  lang: en
+  new_paragraph: true
+- text: Może dlatego, że Chrystus chce,
+  start: 626.61
+  duration: 1.933
+  lang: pl
+  new_paragraph: true
+- text: to be a teacher of the faith.
+  start: 629.372
+  duration: 2.058
+  lang: en
+- text: abyś był nauczycielem wiary.
+  start: 629.372
+  duration: 2.058
+  lang: pl
+- text: Young people today needing teachers of the faith?
+  start: 632.84
+  duration: 3.9
+  lang: en
+  new_paragraph: true
+- text: Młodzi dzisiaj potrzebują nauczycieli wiary?
+  start: 632.84
+  duration: 3.9
+  lang: pl
+  new_paragraph: true
+- text: You bet.
+  start: 636.74
+  duration: 0.91
+  lang: en
+- text: Obstawiasz.
+  start: 636.74
+  duration: 0.91
+  lang: pl
+- text: Lots of young people alienated from the faith.
+  start: 638.647
+  duration: 2.253
+  lang: en
+- text: Wielu młodych ludzi oderwało się od wiary.
+  start: 638.647
+  duration: 2.253
+  lang: pl
+- text: Maybe your skill as a teacher
+  start: 640.9
+  duration: 2.4
+  lang: en
+- text: Może twoje umiejętności jako nauczyciela
+  start: 640.9
+  duration: 2.4
+  lang: pl
+- text: is something the Master  has need of right now,
+  start: 643.408
+  duration: 3.642
+  lang: en
+- text: są czymś, czego Mistrz potrzebuje w tej chwili
+  start: 643.408
+  duration: 3.642
+  lang: pl
+- text: and he gave you that gift
+  start: 647.6
+  duration: 1.45
+  lang: en
+- text: i dał ci ten dar
+  start: 647.6
+  duration: 1.45
+  lang: pl
+- text: that you might give it back to him.
+  start: 649.2
+  duration: 2.64
+  lang: en
+- text: ', abyś mógł mu go zwrócić.'
+  start: 649.2
+  duration: 2.64
+  lang: pl
+- text: How come you've got such a sympathy for the poor?
+  start: 653.58
+  duration: 2.56
+  lang: en
+  new_paragraph: true
+- text: Jak to się stało, że masz takie współczucie dla biednych?
+  start: 653.58
+  duration: 2.56
+  lang: pl
+  new_paragraph: true
+- text: I've known people from the time they were
+  start: 656.14
+  duration: 1.16
+  lang: en
+- text: Znam ludzi od czasów, gdy byli
+  start: 656.14
+  duration: 1.16
+  lang: pl
+- text: little kids that had this great sympathy
+  start: 657.3
+  duration: 2.16
+  lang: en
+- text: małymi dziećmi, które darzyły wielką
+  start: 657.3
+  duration: 2.16
+  lang: pl
+- text: for those who suffer.
+  start: 659.46
+  duration: 1.39
+  lang: en
+- text: sympatią tych, którzy cierpią.
+  start: 659.46
+  duration: 1.39
+  lang: pl
+- text: They had a great gift of compassion.
+  start: 661.28
+  duration: 2.4
+  lang: en
+- text: Mieli wielki dar współczucia.
+  start: 661.28
+  duration: 2.4
+  lang: pl
+- text: Again, it's probably not going to advance you
+  start: 664.36
+  duration: 1.57
+  lang: en
+- text: Znowu, prawdopodobnie nie posunie cię to
+  start: 664.36
+  duration: 1.57
+  lang: pl
+- text: very far in the world,
+  start: 665.93
+  duration: 1.63
+  lang: en
+- text: zbyt daleko na świecie,
+  start: 665.93
+  duration: 1.63
+  lang: pl
+- text: but maybe Christ gave it to you because he wants you
+  start: 668.54
+  duration: 2.83
+  lang: en
+- text: ale może Chrystus dał ci to , ponieważ chce,
+  start: 668.54
+  duration: 2.83
+  lang: pl
+- text: to give it back to him
+  start: 671.37
+  duration: 1.12
+  lang: en
+- text: abyś mu go oddał,
+  start: 671.37
+  duration: 1.12
+  lang: pl
+- text: to be of service to his people.
+  start: 672.49
+  duration: 2.42
+  lang: en
+- text: aby służył jego ludowi.
+  start: 672.49
+  duration: 2.42
+  lang: pl
+- text: You see my point.
+  start: 675.36
+  duration: 0.9
+  lang: en
+- text: Widzisz mój punkt widzenia.
+  start: 675.36
+  duration: 0.9
+  lang: pl
+- text: The way we look at our life will utterly change
+  start: 678.13
+  duration: 3.41
+  lang: en
+  new_paragraph: true
+- text: Sposób, w jaki patrzymy na nasze życie, całkowicie się zmieni,
+  start: 678.13
+  duration: 3.41
+  lang: pl
+  new_paragraph: true
+- text: if we let that little line sink in.
+  start: 681.54
+  duration: 2.32
+  lang: en
+- text: jeśli pozwolimy, by ta mała linia zapadła się w nią
+  start: 681.54
+  duration: 2.32
+  lang: pl
+- text: The Master has need of it.
+  start: 683.86
+  duration: 2.95
+  lang: en
+- text: . Mistrz jej potrzebuje.
+  start: 683.86
+  duration: 2.95
+  lang: pl
+- text: That means that in my humility
+  start: 687.13
+  duration: 1.99
+  lang: en
+- text: Oznacza to, że w mojej pokorze
+  start: 687.13
+  duration: 1.99
+  lang: pl
+- text: I'm going to give back what Christ gave to me.
+  start: 689.29
+  duration: 2.65
+  lang: en
+- text: oddam to, co dał mi Chrystus.
+  start: 689.29
+  duration: 2.65
+  lang: pl
+- text: Let me close just by reflecting on
+  start: 692.96
+  duration: 1.78
+  lang: en
+  new_paragraph: true
+- text: Pozwólcie, że zakończę tylko refleksję nad
+  start: 692.96
+  duration: 1.78
+  lang: pl
+  new_paragraph: true
+- text: this last thing.
+  start: 694.74
+  duration: 0.87
+  lang: en
+- text: tą ostatnią rzeczą.
+  start: 694.74
+  duration: 0.87
+  lang: pl
+- text: The Lord says,
+  start: 695.61
+  duration: 0.56
+  lang: en
+- text: 'Pan mówi:'
+  start: 695.61
+  duration: 0.56
+  lang: pl
+- text: “Now go into the city, and I want you to
+  start: 696.17
+  duration: 2.268
+  lang: en
+- text: „Teraz idź do miasta, a ja chcę, żebyś
+  start: 696.17
+  duration: 2.268
+  lang: pl
+- text: untether the donkey, and if anyone asks,
+  start: 698.478
+  duration: 3.542
+  lang: en
+- text: uwolnił osła, a jeśli ktoś o to poprosi,
+  start: 698.478
+  duration: 3.542
+  lang: pl
+- text: you say, ‘The Master has need of it.’”
+  start: 702.02
+  duration: 1.65
+  lang: en
+- text: 'powiedz: ‚Mistrz tego potrzebuje’”.'
+  start: 702.02
+  duration: 1.65
+  lang: pl
+- text: But I want to focus on the untethering.
+  start: 703.81
+  duration: 2.39
+  lang: en
+- text: Ale ja chcę się skupić na uwalnianiu.
+  start: 703.81
+  duration: 2.39
+  lang: pl
+- text: You see, how wonderful that this donkey was liberated
+  start: 707.3
+  duration: 5.21
+  lang: en
+  new_paragraph: true
+- text: Widzisz, jak cudownie, że ten osioł został wyzwolony
+  start: 707.3
+  duration: 5.21
+  lang: pl
+  new_paragraph: true
+- text: for Christ's service.
+  start: 713.45
+  duration: 1.44
+  lang: en
+- text: do służby Chrystusowi.
+  start: 713.45
+  duration: 1.44
+  lang: pl
+- text: Think of that tethering.
+  start: 716.07
+  duration: 1.23
+  lang: en
+  new_paragraph: true
+- text: Pomyśl o tym tetheringu.
+  start: 716.07
+  duration: 1.23
+  lang: pl
+  new_paragraph: true
+- text: An animal that's tethered in place,
+  start: 717.3
+  duration: 1.52
+  lang: en
+- text: Zwierzę, które jest uwiązane w miejscu,
+  start: 717.3
+  duration: 1.52
+  lang: pl
+- text: it can't move, it's stuck.
+  start: 718.82
+  duration: 1.44
+  lang: en
+- text: nie może się ruszać , utknęło.
+  start: 718.82
+  duration: 1.44
+  lang: pl
+- text: The way, everybody, that most of us live
+  start: 721.44
+  duration: 2.6
+  lang: en
+  new_paragraph: true
+- text: Sposób, w jaki większość z nas żyje,
+  start: 721.44
+  duration: 2.6
+  lang: pl
+  new_paragraph: true
+- text: is a kind of tethering.
+  start: 724.35
+  duration: 1.55
+  lang: en
+- text: jest rodzajem uwięzi.
+  start: 724.35
+  duration: 1.55
+  lang: pl
+- text: We're tied to the goods of the world.
+  start: 726.27
+  duration: 3.1
+  lang: en
+- text: Jesteśmy przywiązani do dóbr świata.
+  start: 726.27
+  duration: 3.1
+  lang: pl
+- text: We're tied to our own projects and plans.
+  start: 729.37
+  duration: 3.12
+  lang: en
+- text: Jesteśmy związani z własnymi projektami i planami.
+  start: 729.37
+  duration: 3.12
+  lang: pl
+- text: We're tied to our own petty reputations.
+  start: 732.49
+  duration: 2.97
+  lang: en
+- text: Jesteśmy związani z naszą drobną reputacją.
+  start: 732.49
+  duration: 2.97
+  lang: pl
+- text: We're tied to our own pride,
+  start: 735.46
+  duration: 1.941
+  lang: en
+- text: Jesteśmy przywiązani do własnej dumy,
+  start: 735.46
+  duration: 1.941
+  lang: pl
+- text: wealth and power, pleasure, honor.
+  start: 737.67
+  duration: 1.79
+  lang: en
+- text: bogactwa i władzy, przyjemności, honoru.
+  start: 737.67
+  duration: 1.79
+  lang: pl
+- text: We're tethered to these things.
+  start: 739.46
+  duration: 2.21
+  lang: en
+- text: Jesteśmy przywiązani do tych rzeczy.
+  start: 739.46
+  duration: 2.21
+  lang: pl
+- text: How wonderful that one of the Apostles of the Lord
+  start: 742.11
+  duration: 3.82
+  lang: en
+- text: Jak cudownie, że jeden z Apostołów Pana
+  start: 742.11
+  duration: 3.82
+  lang: pl
+- text: comes and unties that animal.
+  start: 745.93
+  duration: 2.85
+  lang: en
+- text: przychodzi i rozwiązuje to zwierzę.
+  start: 745.93
+  duration: 2.85
+  lang: pl
+- text: Think of that now.
+  start: 748.94
+  duration: 1.05
+  lang: en
+- text: Pomyśl o tym teraz.
+  start: 748.94
+  duration: 1.05
+  lang: pl
+- text: The grace of Christ untethering you
+  start: 750.13
+  duration: 4.59
+  lang: en
+- text: Łaska Chrystusa uwalnia cię
+  start: 750.13
+  duration: 4.59
+  lang: pl
+- text: from these attachments that you have
+  start: 755.68
+  duration: 2.32
+  lang: en
+- text: od tych przywiązań ,
+  start: 755.68
+  duration: 2.32
+  lang: pl
+- text: which have just made you unhappy.
+  start: 760.08
+  duration: 1.94
+  lang: en
+  new_paragraph: true
+- text: które właśnie uczyniły cię nieszczęśliwym.
+  start: 760.08
+  duration: 1.94
+  lang: pl
+  new_paragraph: true
+- text: Let's be honest, right?
+  start: 762.02
+  duration: 1.66
+  lang: en
+- text: Bądźmy szczerzy, prawda?
+  start: 762.02
+  duration: 1.66
+  lang: pl
+- text: Whenever we live our life that way
+  start: 763.81
+  duration: 1.33
+  lang: en
+- text: Ilekroć żyjemy w ten sposób
+  start: 763.81
+  duration: 1.33
+  lang: pl
+- text: —"it's my projects, my plans, look at me”—
+  start: 765.14
+  duration: 2.32
+  lang: en
+- text: – „to moje projekty, moje plany, spójrz na mnie”
+  start: 765.14
+  duration: 2.32
+  lang: pl
+- text: it leads down a road to great unhappiness.
+  start: 767.86
+  duration: 2.88
+  lang: en
+- text: – prowadzi to do wielkiego nieszczęścia.
+  start: 767.86
+  duration: 2.88
+  lang: pl
+- text: Let Christ's grace untether you from all that
+  start: 771.05
+  duration: 3.38
+  lang: en
+- text: Niech łaska Chrystusa oderwie cię od tego wszystkiego
+  start: 771.05
+  duration: 3.38
+  lang: pl
+- text: and free you, paradoxically, to be of service to him.
+  start: 775.16
+  duration: 5.64
+  lang: en
+- text: i uwolni cię, paradoksalnie , byś mógł Mu służyć  "
+  start: 775.16
+  duration: 5.64
+  lang: pl
+- text: Because when you serve the Lord Jesus Christ,
+  start: 780.97
+  duration: 2.17
+  lang: en
+- text: Ponieważ kiedy służysz Panu Jezusowi Chrystusowi,
+  start: 780.97
+  duration: 2.17
+  lang: pl
+- text: it's not a type of servitude.
+  start: 783.14
+  duration: 2.21
+  lang: en
+- text: to nie jest rodzaj niewoli.
+  start: 783.14
+  duration: 2.21
+  lang: pl
+- text: It's not a kind of enslavement.
+  start: 785.51
+  duration: 1.84
+  lang: en
+- text: To nie jest rodzaj zniewolenia.
+  start: 785.51
+  duration: 1.84
+  lang: pl
+- text: In fact, it's a liberation.
+  start: 787.37
+  duration: 2.66
+  lang: en
+- text: W rzeczywistości jest to wyzwolenie.
+  start: 787.37
+  duration: 2.66
+  lang: pl
+- text: So on this Palm Sunday, identify with that
+  start: 791.0
+  duration: 2.93
+  lang: en
+- text: Więc w tę Niedzielę Palmową utożsamiaj się z tym
+  start: 791.0
+  duration: 2.93
+  lang: pl
+- text: little humble donkey, that little humble animal.
+  start: 793.93
+  duration: 2.57
+  lang: en
+- text: małym pokornym osiołkiem, tym małym pokornym zwierzęciem".
+  start: 793.93
+  duration: 2.57
+  lang: pl
+- text: Look at the whole of your life and say,
+  start: 797.3
+  duration: 3.84
+  lang: en
+- text: 'na całe swoje życie i powiedz:'
+  start: 797.3
+  duration: 3.84
+  lang: pl
+- text: '"You know, ultimately, the Master has need of it,"'
+  start: 801.14
+  duration: 4.44
+  lang: en
+- text: „Wiesz, ostatecznie Mistrz tego potrzebuje"
+  start: 801.14
+  duration: 4.44
+  lang: pl
+- text: and give your life over to him.
+  start: 806.85
+  duration: 1.53
+  lang: en
+  new_paragraph: true
+- text: i oddaj mu swoje życie.
+  start: 806.85
+  duration: 1.53
+  lang: pl
+  new_paragraph: true
+- text: And God bless you.
+  start: 809.89
+  duration: 0.9
+  lang: en
+  new_paragraph: true
+- text: I niech Bóg cię błogosławi.
+  start: 809.89
+  duration: 0.9
+  lang: pl
+  new_paragraph: true
+- text: Thanks so much for watching.
+  start: 812.42
+  duration: 1.44
+  lang: en
+  new_paragraph: true
+- text: Bardzo dziękuję za obejrzenie.
+  start: 812.42
+  duration: 1.44
+  lang: pl
+  new_paragraph: true
+- text: If you enjoyed this video, I invite you to share it
+  start: 813.86
+  duration: 2.87
+  lang: en
+- text: Jeśli podobał ci się ten film , zapraszam  podzielić się nim
+  start: 813.86
+  duration: 2.87
+  lang: pl
+- text: and to subscribe to my YouTube channel.
+  start: 816.73
+  duration: 2.859
+  lang: en
+- text: i zasubskrybować mój kanał na YouTube.
+  start: 816.73
+  duration: 2.859
+  lang: pl
