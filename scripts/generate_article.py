@@ -1,6 +1,8 @@
 import argparse
 from enum import Enum
+import os
 import sys
+import time
 import yaml
 from transcript import Transcript
 from youtube import get_yt_id
@@ -30,6 +32,15 @@ class ArticleData:
 
     def title(self):
         return self.definition_data['title']
+
+    def category(self):
+        return self.definition_data['category']
+
+    def upload_date(self):
+        return self.definition_data['upload_date']
+
+    def created_date(self):
+        return self.definition_data['created_date']
     
     def original_title(self):
         return self.definition_data['original_title']
@@ -65,6 +76,16 @@ class ArticleData:
 def writeln(file, line):
     file.write(f"{line}\n")
 
+def get_last_modified_timestamp(filename):
+    time_float = os.path.getmtime(filename)
+    return time.ctime(time_float)
+
+def get_last_modified(definition_file, transcript_file):
+    definition_timestamp = get_last_modified_timestamp(definition_file.name)
+    transcript_timestamp = get_last_modified_timestamp(transcript_file.name)
+    max_modified_timestamp = max(definition_timestamp, transcript_timestamp)
+    return time.strftime("%Y-%m-%d %H:%M:%S", time.strptime(max_modified_timestamp))
+
 args = parser.parse_args()
 
 definition = yaml.safe_load(args.definition)
@@ -77,6 +98,10 @@ writeln(args.output, "---")
 writeln(args.output, f"tags: {article.tags()}")
 writeln(args.output, f"title: {article.title()}")
 writeln(args.output, f"cover: {article.cover()}")
+writeln(args.output, f"category: {article.category()}")
+writeln(args.output, f"upload_date: {article.upload_date()}")
+writeln(args.output, f"created_date: {article.created_date()}")
+writeln(args.output, f"modify_date: {get_last_modified(args.definition, args.transcript)}")
 writeln(args.output, "sidebar:")
 writeln(args.output, "  nav: transcripts-en")
 writeln(args.output, "---")
