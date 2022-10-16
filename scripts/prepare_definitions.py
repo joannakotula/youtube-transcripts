@@ -44,6 +44,7 @@ def build_definition(movie):
         "original_description": movie.description.replace("\n", ""),
         "original_tags": movie.keywords,
         "upload_date": movie.publish_date,
+        "created_date": datetime.today().date(),
         "author": movie.author,
         'original_language': args.lang,
         'category': args.category,
