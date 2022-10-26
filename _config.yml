@@ -4,6 +4,7 @@ collections:
   transcripts:
     output: true
     layout: article
+    permalink: /:collection/:categories/:name
 
 exclude:
   - scripts
