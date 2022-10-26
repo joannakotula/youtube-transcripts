@@ -1,4 +1,4 @@
-status: generated
+status: in_progress
 content:
 - text: Peace be with you.
   start: 0.42
@@ -12,10 +12,12 @@ content:
   start: 1.407
   duration: 1.961
   lang: en
+  new_paragraph: true
 - text: Przyjaciele, nasze pierwsze czytanie na tę niedzielę jest
   start: 1.407
   duration: 1.961
   lang: pl
+  new_paragraph: true
 - text: one of my favorites.
   start: 3.408
   duration: 0.532
@@ -52,7 +54,7 @@ content:
   start: 10.18
   duration: 0.54
   lang: en
-- text: 'A ty powiesz:'
+- text: 'Powiesz:'
   start: 10.18
   duration: 0.54
   lang: pl
@@ -60,7 +62,7 @@ content:
   start: 10.72
   duration: 2.63
   lang: en
-- text: „Cóż, może to niezbyt interesujące dla
+- text: „Cóż, może to w miarę interesujące dla
   start: 10.72
   duration: 2.63
   lang: pl
@@ -68,7 +70,7 @@ content:
   start: 13.35
   duration: 2.172
   lang: en
-- text: specjalistów historyków starożytnego świata”,
+- text: specjalistów od historii starożytnego świata”,
   start: 13.35
   duration: 2.172
   lang: pl
@@ -76,7 +78,7 @@ content:
   start: 15.608
   duration: 2.792
   lang: en
-- text: 'albo po drugiej stronie:'
+- text: 'albo z drugiej strony:'
   start: 15.608
   duration: 2.792
   lang: pl
@@ -92,7 +94,7 @@ content:
   start: 20.556
   duration: 2.104
   lang: en
-- text: Biblia mówi o tych wojnach”.
+- text: Biblia wciąż mówi o tych wojnach”.
   start: 20.556
   duration: 2.104
   lang: pl
@@ -116,7 +118,7 @@ content:
   start: 26.32
   duration: 2.577
   lang: en
-- text: Izraelici rzucili wszystkich Amalekitów pod miecz.
+- text: Izraelici zabili wszystkich Amalekitów mieczem.
   start: 26.32
   duration: 2.577
   lang: pl
@@ -132,7 +134,7 @@ content:
   start: 31.565
   duration: 1.535
   lang: en
-- text: albo jest to rodzaj oburzenia.
+- text: albo jest to coś oburzającego.
   start: 31.565
   duration: 1.535
   lang: pl
@@ -140,7 +142,7 @@ content:
   start: 33.4
   duration: 2.61
   lang: en
-- text: Cóż, czy mogę zasugerować, że to żaden z nich?
+- text: Cóż, czy mogę zasugerować, że to ani jedno ani drugie?
   start: 33.4
   duration: 2.61
   lang: pl
@@ -148,15 +150,17 @@ content:
   start: 36.203
   duration: 1.277
   lang: en
-- text: Aby pomóc nam to dostrzec
+  new_paragraph: true
+- text: Aby pomóc nam to dostrzec,
   start: 36.203
   duration: 1.277
   lang: pl
+  new_paragraph: true
 - text: I would draw attention not to any contemporary
   start: 37.96
   duration: 2.57
   lang: en
-- text: ', zwróciłbym uwagę nie na żadnego współczesnego'
+- text: 'zwróciłbym uwagę nie na żadnego współczesnego'
   start: 37.96
   duration: 2.57
   lang: pl
@@ -196,7 +200,7 @@ content:
   start: 49.37
   duration: 3.6
   lang: en
-- text: Zaproponował też sposób odczytywania tego rodzaju tekstu,
+- text: Zaproponował też sposób odczytywania tego rodzaju tekstów,
   start: 49.37
   duration: 3.6
   lang: pl
@@ -228,7 +232,7 @@ content:
   start: 61.72
   duration: 3.79
   lang: en
-- text: jakiś makabryczny Bóg dokonujący ludobójstwa na ludziach.
+- text: jakiegoś makabrycznego Boga dokonującego ludobójstwa na ludziach.
   start: 61.72
   duration: 3.79
   lang: pl
@@ -236,7 +240,7 @@ content:
   start: 66.14
   duration: 1.7
   lang: en
-- text: Jak Orygenes odczytuje tego rodzaju historię
+- text: Jak Orygenes odczytuje tego rodzaju historię,
   start: 66.14
   duration: 1.7
   lang: pl
@@ -244,7 +248,7 @@ content:
   start: 67.84
   duration: 2.24
   lang: en
-- text: ', bitwę Izraela przeciwko jego wrogom?'
+- text: 'bitwę Izraela przeciwko jego wrogom?'
   start: 67.84
   duration: 2.24
   lang: pl
@@ -252,7 +256,7 @@ content:
   start: 70.71
   duration: 2.54
   lang: en
-- text: Postrzega Izrael jako przywołujący
+- text: Postrzega Izrael jako symbolizujący
   start: 70.71
   duration: 2.54
   lang: pl
@@ -284,7 +288,7 @@ content:
   start: 81.97
   duration: 2.55
   lang: en
-- text: Kim więc są Egipcjanie
+- text: Kim więc są Egipcjanie,
   start: 81.97
   duration: 2.55
   lang: pl
@@ -292,7 +296,7 @@ content:
   start: 84.52
   duration: 2.559
   lang: en
-- text: ', Amalekici , Filistyni'
+- text: 'Amalekici, Filistyni,'
   start: 84.52
   duration: 2.559
   lang: pl
@@ -300,7 +304,7 @@ content:
   start: 87.119
   duration: 2.131
   lang: en
-- text: ', Asyryjczycy, Grecy , Rzymianie,'
+- text: 'Asyryjczycy, Grecy, Rzymianie,'
   start: 87.119
   duration: 2.131
   lang: pl
@@ -324,12 +328,10 @@ content:
   start: 95.79
   duration: 2.46
   lang: en
-  new_paragraph: true
 - text: Wszystkie te moce grzechu, głupoty,
   start: 95.79
   duration: 2.46
   lang: pl
-  new_paragraph: true
 - text: cruelty, hatred, violence, racism
   start: 98.25
   duration: 2.89
@@ -342,7 +344,7 @@ content:
   start: 101.14
   duration: 2.66
   lang: en
-- text: wszystko, co sprzeciwia się Bogu
+- text: wszystko, co sprzeciwia się Bogu,
   start: 101.14
   duration: 2.66
   lang: pl
@@ -350,7 +352,7 @@ content:
   start: 104.46
   duration: 2.48
   lang: en
-- text: ', będzie symbolizowane przez tych wrogów Izraela.'
+- text: 'będzie symbolizowane przez tych wrogów Izraela.'
   start: 104.46
   duration: 2.48
   lang: pl
@@ -358,11 +360,13 @@ content:
   start: 107.8
   duration: 1.914
   lang: en
+  new_paragraph: true
 - text: Tak więc pierwszy podstawowy punkt, z
   start: 107.8
   duration: 1.914
   lang: pl
-- text: we just got to come  to terms with it
+  new_paragraph: true
+- text: we just got to come to terms with it
   start: 109.754
   duration: 1.786
   lang: en
@@ -374,17 +378,15 @@ content:
   start: 112.76
   duration: 2.186
   lang: en
-  new_paragraph: true
-- text: pogodzić – życie duchowe to walka, wszyscy.
+- text: pogodzić – życie duchowe to walka.
   start: 112.76
   duration: 2.186
   lang: pl
-  new_paragraph: true
 - text: Always has been, is today, always will be
   start: 115.104
   duration: 3.676
   lang: en
-- text: Zawsze było, jest dzisiaj, zawsze będzie
+- text: Zawsze tak było, jest dzisiaj, zawsze będzie,
   start: 115.104
   duration: 3.676
   lang: pl
@@ -392,7 +394,7 @@ content:
   start: 118.78
   duration: 0.89
   lang: en
-- text: aż do końca czasu.
+- text: aż do końca czasów.
   start: 118.78
   duration: 0.89
   lang: pl
@@ -416,7 +418,7 @@ content:
   start: 121.801
   duration: 3.009
   lang: en
-- text: Ci, którzy stoją na Bożych drogach,
+- text: Ci, którzy trzymają się Bożych dróg,
   start: 121.801
   duration: 3.009
   lang: pl
@@ -424,37 +426,33 @@ content:
   start: 126.08
   duration: 4.39
   lang: en
-  new_paragraph: true
-- text: będą pocieszani przez niektórych, tak. Zachęcany przez niektórych, prawda.
+- text: będą doceniani przez niektórych, tak. Zachęcani przez niektórych, prawda.
   start: 126.08
   duration: 4.39
   lang: pl
-  new_paragraph: true
 - text: But opposed by many.
   start: 131.51
   duration: 1.49
   lang: en
-  new_paragraph: true
-- text: Ale wielu sprzeciwiało się temu.
+- text: Ale powstrzymywani przez wielu.
   start: 131.51
   duration: 1.49
   lang: pl
-  new_paragraph: true
 - text: When I was counseling people in the seminary
   start: 134.155
   duration: 3.785
   lang: en
   new_paragraph: true
-- text: Kiedy doradzałem ludziom w
+- text: Kiedy doradzałem ludziom w seminarium
   start: 134.155
   duration: 3.785
   lang: pl
   new_paragraph: true
-- text: —those who are just commencing the spiritual life,
+- text: — those who are just commencing the spiritual life,
   start: 138.252
   duration: 2.168
   lang: en
-- text: seminarium — tym, którzy dopiero rozpoczynają życie duchowe,
+- text: — tym, którzy dopiero rozpoczynają życie duchowe,
   start: 138.252
   duration: 2.168
   lang: pl
@@ -462,7 +460,7 @@ content:
   start: 140.953
   duration: 2.147
   lang: en
-- text: często zaczynają z wielkim entuzjazmem
+- text: często zaczynają oni z wielkim entuzjazmem
   start: 140.953
   duration: 2.147
   lang: pl
@@ -494,7 +492,7 @@ content:
   start: 152.41
   duration: 1.89
   lang: en
-- text: tym bardziej będziesz się sprzeciwiał.
+- text: tym więcej sprzeciwu napotkasz.
   start: 152.41
   duration: 1.89
   lang: pl
@@ -502,7 +500,7 @@ content:
   start: 154.3
   duration: 1.08
   lang: en
-- text: Wiesz o tym, prawda?
+- text: Wiesz o tym, prawda?"
   start: 154.3
   duration: 1.08
   lang: pl
@@ -518,7 +516,7 @@ content:
   start: 156.06
   duration: 1.48
   lang: en
-- text: „Cóż, co masz na myśli , że będę się sprzeciwiać?”
+- text: „Co masz na myśli, mówiąc że będę napotykać sprzeciw?”
   start: 156.06
   duration: 1.48
   lang: pl
@@ -542,7 +540,7 @@ content:
   start: 163.18
   duration: 3.18
   lang: en
-- text: zaufaj mi, oni wyjdą za tobą.
+- text: zaufaj mi, on pójdzie za tobą.
   start: 163.18
   duration: 3.18
   lang: pl
@@ -550,7 +548,7 @@ content:
   start: 167.12
   duration: 2.6
   lang: en
-- text: Znacie tę linijkę Churchilla
+- text: Znacie to zdanie Churchilla,
   start: 167.12
   duration: 2.6
   lang: pl
@@ -558,7 +556,7 @@ content:
   start: 169.72
   duration: 0.89
   lang: en
-- text: ', którą cytowałem wiele razy –'
+- text: 'które cytowałem wiele razy –'
   start: 169.72
   duration: 0.89
   lang: pl
@@ -566,7 +564,7 @@ content:
   start: 170.61
   duration: 1.93
   lang: en
-- text: zawsze ją kochałem, to mnie pociesza –
+- text: zawsze je kochałem, pociesza mnie –
   start: 170.61
   duration: 1.93
   lang: pl
@@ -582,7 +580,7 @@ content:
   start: 176.48
   duration: 1.869
   lang: en
-- text: To znaczy, że nic nie znaczy.
+- text: To znaczy, że niczego nie reprezentuje."
   start: 176.48
   duration: 1.869
   lang: pl
@@ -598,7 +596,7 @@ content:
   start: 180.296
   duration: 2.493
   lang: en
-- text: To prawda w świecie politycznym, w którym był Churchill,
+- text: To prawda w świecie polityki, do którego należał Churchill,
   start: 180.296
   duration: 2.493
   lang: pl
@@ -606,7 +604,7 @@ content:
   start: 182.829
   duration: 3.046
   lang: en
-- text: ale jest to jeszcze bardziej poprawne w świecie duchowym.
+- text: ale jeszcze bardziej w świecie duchowym.
   start: 182.829
   duration: 3.046
   lang: pl
@@ -614,7 +612,7 @@ content:
   start: 186.026
   duration: 3.164
   lang: en
-- text: Nigdy nie ufaj komuś, komu się nie sprzeciwiasz.
+- text: Nigdy nie ufaj komuś, kto nie napotyka sprzeciwu.
   start: 186.026
   duration: 3.164
   lang: pl
@@ -622,12 +620,10 @@ content:
   start: 190.783
   duration: 2.155
   lang: en
-  new_paragraph: true
-- text: To prawie na pewno oznacza, że ​​nie
+- text: To prawie na pewno oznacza, że nie
   start: 190.783
   duration: 2.155
   lang: pl
-  new_paragraph: true
 - text: the path of the Lord.
   start: 192.978
   duration: 1.802
@@ -640,15 +636,17 @@ content:
   start: 195.141
   duration: 2.719
   lang: en
+  new_paragraph: true
 - text: Spójrzmy więc na wszystkie te bitwy, w
   start: 195.141
   duration: 2.719
   lang: pl
+  new_paragraph: true
 - text: including this one, as evocative of the
   start: 197.86
   duration: 2.94
   lang: en
-- text: tym tę, jako przywołujące
+- text: tym tę, jako symbolizujące
   start: 197.86
   duration: 2.94
   lang: pl
@@ -664,7 +662,7 @@ content:
   start: 202.83
   duration: 3.58
   lang: en
-- text: Więc Izrael przeciwko Amalekitom,
+- text: "Więc Izrael przeciwko Amalekitom:"
   start: 202.83
   duration: 3.58
   lang: pl
@@ -672,12 +670,10 @@ content:
   start: 207.77
   duration: 1.35
   lang: en
-  new_paragraph: true
 - text: jak się sprawy rozwijają?
   start: 207.77
   duration: 1.35
   lang: pl
-  new_paragraph: true
 - text: Well, there are soldiers who are directly engaged
   start: 209.38
   duration: 4.37
@@ -724,7 +720,7 @@ content:
   start: 223.605
   duration: 0.752
   lang: en
-- text: UH Huh.
+- text: Mhm.
   start: 223.605
   duration: 0.752
   lang: pl
@@ -758,7 +754,7 @@ content:
   start: 232.91
   duration: 2.45
   lang: en
-- text: Teraz może się to zdarzyć w twoim życiu osobistym.
+- text: Może się to zdarzyć w twoim życiu osobistym.
   start: 232.91
   duration: 2.45
   lang: pl
@@ -798,7 +794,7 @@ content:
   start: 243.69
   duration: 1.23
   lang: en
-- text: Może być na tym poziomie.
+- text: To może być na tym poziomie.
   start: 243.69
   duration: 1.23
   lang: pl
@@ -816,7 +812,7 @@ content:
   start: 248.44
   duration: 1.08
   lang: en
-- text: Próbują katechizować,
+- text: Próbuje katechizować,
   start: 248.44
   duration: 1.08
   lang: pl
@@ -824,7 +820,7 @@ content:
   start: 249.52
   duration: 1.31
   lang: en
-- text: próbują mówić prawdę Bożą.
+- text: próbuje mówić Bożą prawdę.
   start: 249.52
   duration: 1.31
   lang: pl
@@ -832,7 +828,7 @@ content:
   start: 250.83
   duration: 3.91
   lang: en
-- text: Sprzeciwiają się wszelkiego rodzaju negatywnym opiniom.
+- text: Napotykają sprzeciw w postaci wszelkiego rodzaju negatywnych opinii.
   start: 250.83
   duration: 3.91
   lang: pl
@@ -840,7 +836,7 @@ content:
   start: 254.74
   duration: 0.9
   lang: en
-- text: Wątpisz we mnie w tym?
+- text: Wątpisz w moje słowa?
   start: 254.74
   duration: 0.9
   lang: pl
@@ -880,7 +876,7 @@ content:
   start: 267.063
   duration: 2.727
   lang: en
-- text: Może to być, gdy jesteś, powiedzmy,
+- text: Może to być, gdy zajmujesz się, powiedzmy,
   start: 267.063
   duration: 2.727
   lang: pl
@@ -888,7 +884,7 @@ content:
   start: 269.79
   duration: 1.33
   lang: en
-- text: w porządku społecznym;
+- text: porządkiem społecznym;
   start: 269.79
   duration: 1.33
   lang: pl
@@ -896,7 +892,7 @@ content:
   start: 271.14
   duration: 3.71
   lang: en
-- text: mówisz, walczysz o dobre rzeczy.
+- text: bronisz go, walczysz o dobre rzeczy.
   start: 271.14
   duration: 3.71
   lang: pl
@@ -937,7 +933,7 @@ content:
   duration: 3.226
   lang: en
   new_paragraph: true
-- text: Więc jesteście bezpośrednio zaangażowani w tę walkę –
+- text: Więc jesteś bezpośrednio zaangażowany w tę walkę –
   start: 285.114
   duration: 3.226
   lang: pl
@@ -954,7 +950,7 @@ content:
   start: 290.14
   duration: 2.52
   lang: en
-- text: jako ksiądz, jako biskup, byłem w to zaangażowany
+- text: jako ksiądz, jako biskup, jestem w to zaangażowany
   start: 290.14
   duration: 2.52
   lang: pl
@@ -962,7 +958,7 @@ content:
   start: 292.66
   duration: 1.41
   lang: en
-- text: przez długi czas,
+- text: od dawna,
   start: 292.66
   duration: 1.41
   lang: pl
@@ -979,7 +975,7 @@ content:
   duration: 3.18
   lang: en
   new_paragraph: true
-- text: Ale potem słyszymy, że podczas bitwy
+- text: Ale potem słyszymy, że podczas bitwy,
   start: 298.78
   duration: 3.18
   lang: pl
@@ -988,7 +984,7 @@ content:
   start: 301.96
   duration: 3.77
   lang: en
-- text: ', na wzniesieniu, jest Mojżesz.'
+- text: 'na wzniesieniu, jest Mojżesz.'
   start: 301.96
   duration: 3.77
   lang: pl
@@ -996,7 +992,7 @@ content:
   start: 305.878
   duration: 2.812
   lang: en
-- text: Teraz Mojżesz, wielki przywódca Izraelitów.
+- text: Mojżesz, wielki przywódca Izraelitów.
   start: 305.878
   duration: 2.812
   lang: pl
@@ -1004,7 +1000,7 @@ content:
   start: 309.33
   duration: 1.09
   lang: en
-- text: W
+- text: Wysoko, na szczycie
   start: 309.33
   duration: 1.09
   lang: pl
@@ -1012,7 +1008,7 @@ content:
   start: 310.42
   duration: 1.934
   lang: en
-- text: górze — było to typowe
+- text: — było to typowe
   start: 310.42
   duration: 1.934
   lang: pl
@@ -1028,7 +1024,7 @@ content:
   start: 314.216
   duration: 2.674
   lang: en
-- text: że dowódcy wojskowi , generałowie i tak dalej
+- text: że dowódcy wojskowi, generałowie i tak dalej,
   start: 314.216
   duration: 2.674
   lang: pl
@@ -1036,7 +1032,7 @@ content:
   start: 316.97
   duration: 1.75
   lang: en
-- text: ', szukali wzniesienia,'
+- text: 'szukali wzniesienia,'
   start: 316.97
   duration: 1.75
   lang: pl
@@ -1060,7 +1056,7 @@ content:
   start: 322.89
   duration: 2.122
   lang: en
-- text: To był punkt widzenia, którego potrzebowałeś,
+- text: To był punkt widokowy, którego potrzebowałeś,
   start: 322.89
   duration: 2.122
   lang: pl
@@ -1068,7 +1064,7 @@ content:
   start: 325.052
   duration: 1.928
   lang: en
-- text: jeśli miałeś skutecznie kierować rzeczami.
+- text: jeśli miałeś skutecznie kierować sprawami.
   start: 325.052
   duration: 1.928
   lang: pl
@@ -1076,7 +1072,7 @@ content:
   start: 326.98
   duration: 2.81
   lang: en
-- text: To od Juliusza Cezara przez Napoleona
+- text: Od Juliusza Cezara przez Napoleona
   start: 326.98
   duration: 2.81
   lang: pl
@@ -1092,7 +1088,7 @@ content:
   start: 331.284
   duration: 2.069
   lang: en
-- text: To właśnie zrobili generałowie.
+- text: To właśnie robili generałowie.
   start: 331.284
   duration: 2.069
   lang: pl
@@ -1134,7 +1130,7 @@ content:
   start: 344.98
   duration: 3.53
   lang: en
-- text: Bishop, angielskie słowo, jest rodzajem
+- text: Słowo "biskup", jest pewnego rodzaju
   start: 344.98
   duration: 3.53
   lang: pl
@@ -1142,7 +1138,7 @@ content:
   start: 348.51
   duration: 2.72
   lang: en
-- text: zniekształcenia greckiego słowa „episkopos”.
+- text: zniekształceniem greckiego słowa „episkopos”.
   start: 348.51
   duration: 2.72
   lang: pl
@@ -1158,7 +1154,7 @@ content:
   start: 353.32
   duration: 2.217
   lang: en
-- text: a dostaniesz gońca, prawda?
+- text: a dostaniesz biskupa, prawda?
   start: 353.32
   duration: 2.217
   lang: pl
@@ -1174,7 +1170,7 @@ content:
   start: 357.672
   duration: 1.238
   lang: en
-- text: stąd pochodzi słowo;
+- text: stąd pochodzi to słowo;
   start: 357.672
   duration: 1.238
   lang: pl
@@ -1182,7 +1178,7 @@ content:
   start: 359.16
   duration: 1.94
   lang: en
-- text: oznacza „uważać”.
+- text: oznacza nadzorcę.
   start: 359.16
   duration: 1.94
   lang: pl
@@ -1190,7 +1186,7 @@ content:
   start: 362.043
   duration: 1.057
   lang: en
-- text: To bardzo funkcjonalny termin.
+- text: To bardzo funkcyjny termin.
   start: 362.043
   duration: 1.057
   lang: pl
@@ -1206,7 +1202,7 @@ content:
   start: 364.72
   duration: 0.78
   lang: en
-- text: Jest bardzo funkcjonalny.
+- text: Jest bardzo funkcyjny.
   start: 364.72
   duration: 0.78
   lang: pl
@@ -1222,7 +1218,7 @@ content:
   start: 368.2
   duration: 4.126
   lang: en
-- text: On lunetuje , patrzy na.
+- text: Nadzoruje, ogląda z zewnątrz.
   start: 368.2
   duration: 4.126
   lang: pl
@@ -1231,7 +1227,7 @@ content:
   duration: 2.86
   lang: en
   new_paragraph: true
-- text: Tak więc biskup bada życie Kościoła
+- text: Tak więc biskup przygląda się życiu Kościoła,
   start: 373.49
   duration: 2.86
   lang: pl
@@ -1240,7 +1236,7 @@ content:
   start: 376.35
   duration: 2.02
   lang: en
-- text: ', do którego został przydzielony.'
+- text: 'do którego został przydzielony.'
   start: 376.35
   duration: 2.02
   lang: pl
@@ -1249,7 +1245,7 @@ content:
   duration: 2.18
   lang: en
   new_paragraph: true
-- text: Wydaje mi się, że
+- text: Wydaje mi się, że Mojżesz na górze
   start: 379.88
   duration: 2.18
   lang: pl
@@ -1258,7 +1254,7 @@ content:
   start: 382.06
   duration: 3.23
   lang: en
-- text: Mojżesz na górze reprezentuje zatem wszystkich oficjalnych
+- text: reprezentuje zatem wszystkich oficjalnych
   start: 382.06
   duration: 3.23
   lang: pl
@@ -1274,7 +1270,7 @@ content:
   start: 386.903
   duration: 3.317
   lang: en
-- text: Wszyscy ci generałowie, dowódcy,
+- text: Wszystkich tych generałów, dowódców,
   start: 386.903
   duration: 3.317
   lang: pl
@@ -1282,7 +1278,7 @@ content:
   start: 390.53
   duration: 3.22
   lang: en
-- text: księża, biskupi , ostatecznie papież,
+- text: księży, biskupów, w końcu papieża,
   start: 390.53
   duration: 3.22
   lang: pl
@@ -1324,7 +1320,7 @@ content:
   start: 402.0
   duration: 0.481
   lang: en
-- text: Czy tak?
+- text: Czyż nie?
   start: 402.0
   duration: 0.481
   lang: pl
@@ -1340,7 +1336,7 @@ content:
   start: 405.22
   duration: 2.781
   lang: en
-- text: rozważny strategicznie myślący generał,
+- text: rozważny, strategicznie myślący generał,
   start: 405.22
   duration: 2.781
   lang: pl
@@ -1356,7 +1352,7 @@ content:
   start: 410.01
   duration: 2.71
   lang: en
-- text: Pomyśl o tym, że za każdym razem, gdy wybierany jest nowy papież
+- text: Pomyśl o tym, że za każdym razem, gdy wybierany jest nowy papież,
   start: 410.01
   duration: 2.71
   lang: pl
@@ -1364,7 +1360,7 @@ content:
   start: 412.72
   duration: 3.52
   lang: en
-- text: ', zazwyczaj wysyła on swoje rozkazy marszu.'
+- text: 'zazwyczaj wysyła on swoje rozkazy marszu.'
   start: 412.72
   duration: 3.52
   lang: pl
@@ -1380,7 +1376,7 @@ content:
   start: 418.9
   duration: 2.36
   lang: en
-- text: wybrany – Kościół, który idzie na margines itd.
+- text: wybrany – Kościół, który wychodzi do odrzuconych itd.
   start: 418.9
   duration: 2.36
   lang: pl
@@ -1412,10 +1408,12 @@ content:
   start: 430.572
   duration: 1.647
   lang: en
+  new_paragraph: true
 - text: Ale z drugiej strony, w tym pięknym szczególe,
   start: 430.572
   duration: 1.647
   lang: pl
+  new_paragraph: true
 - text: Moses is not just the general who’s surveying
   start: 432.259
   duration: 3.311
@@ -1436,7 +1434,7 @@ content:
   start: 437.44
   duration: 1.97
   lang: en
-- text: On jest tym, ale słyszymy też
+- text: Jest nim, ale słyszymy też,
   start: 437.44
   duration: 1.97
   lang: pl
@@ -1444,7 +1442,7 @@ content:
   start: 439.41
   duration: 2.82
   lang: en
-- text: ', że ma podniesione ręce.'
+- text: 'że ma podniesione ręce.'
   start: 439.41
   duration: 2.82
   lang: pl
@@ -1460,7 +1458,7 @@ content:
   start: 444.75
   duration: 2.186
   lang: en
-- text: Naśladuję ją za każdym razem, gdy odprawiam Mszę św.,
+- text: Naśladuję go za każdym razem, gdy odprawiam Mszę św.,
   start: 444.75
   duration: 2.186
   lang: pl
@@ -1468,7 +1466,7 @@ content:
   start: 447.084
   duration: 2.646
   lang: en
-- text: i przyjmuję to, co nazywają „orans”,
+- text: i przyjmuję to, co nazywają pozycją „orans”,
   start: 447.084
   duration: 2.646
   lang: pl
@@ -1501,7 +1499,7 @@ content:
   duration: 1.66
   lang: en
   new_paragraph: true
-- text: Mówimy więc, że przywódcy
+- text: Mówimy więc, że przywódcy Kościoła
   start: 458.22
   duration: 1.66
   lang: pl
@@ -1510,7 +1508,7 @@ content:
   start: 459.88
   duration: 1.69
   lang: en
-- text: Kościoła mają królewski urząd,
+- text: mają królewski urząd,
   start: 459.88
   duration: 1.69
   lang: pl
@@ -1590,15 +1588,17 @@ content:
   start: 485.85
   duration: 0.89
   lang: en
+  new_paragraph: true
 - text: Dobra.
   start: 485.85
   duration: 0.89
   lang: pl
+  new_paragraph: true
 - text: That’s Moses up on the hill, directing the battle,
   start: 486.93
   duration: 3.25
   lang: en
-- text: To Mojżesz na wzgórzu, kierujący bitwą
+- text: To Mojżesz na wzgórzu, kierujący bitwą,
   start: 486.93
   duration: 3.25
   lang: pl
@@ -1606,7 +1606,7 @@ content:
   start: 490.18
   duration: 1.73
   lang: en
-- text: ', walką przeciwko Amalekitom,'
+- text: 'walką przeciwko Amalekitom,'
   start: 490.18
   duration: 1.73
   lang: pl
@@ -1622,7 +1622,7 @@ content:
   start: 495.55
   duration: 3.47
   lang: en
-- text: Teraz ekstrapoluj tylko biskupa,
+- text: Teraz wyjdźmi poza biskupa,
   start: 495.55
   duration: 3.47
   lang: pl
@@ -1655,7 +1655,7 @@ content:
   duration: 3.81
   lang: en
   new_paragraph: true
-- text: Pomyśl tutaj o klasztorach i zakonach.
+- text: Pomyśl o klasztorach i zakonach.
   start: 507.71
   duration: 3.81
   lang: pl
@@ -1664,7 +1664,7 @@ content:
   start: 512.02
   duration: 2.99
   lang: en
-- text: Pomyśl tutaj o mistykach , kontemplacjach
+- text: Pomyśl o mistykach, kontemplujących
   start: 512.02
   duration: 2.99
   lang: pl
@@ -1680,7 +1680,7 @@ content:
   start: 516.11
   duration: 3.22
   lang: en
-- text: Pomyśl tutaj o starszej osobie, która wróciła do domu,
+- text: Pomyśl o starszej osobie, niewychodzącej z domu,
   start: 516.11
   duration: 3.22
   lang: pl
@@ -1688,7 +1688,7 @@ content:
   start: 519.58
   duration: 2.46
   lang: en
-- text: która nie może już być bezpośrednio w walce.
+- text: która nie może już bezpośrednio brać udziału w walce.
   start: 519.58
   duration: 2.46
   lang: pl
@@ -1696,7 +1696,7 @@ content:
   start: 522.04
   duration: 4.113
   lang: en
-- text: Może była przed laty, ale teraz na
+- text: Może walczyła przed laty, ale teraz, na
   start: 522.04
   duration: 4.113
   lang: pl
@@ -1704,7 +1704,7 @@ content:
   start: 526.268
   duration: 1.412
   lang: en
-- text: starość modli się za Kościół.
+- text: starość, modli się za Kościół.
   start: 526.268
   duration: 1.412
   lang: pl
@@ -1729,7 +1729,7 @@ content:
   duration: 4.29
   lang: en
   new_paragraph: true
-- text: Wszystkie przypominają Mojżesza z podniesionymi rękami,
+- text: Wszyscy przypominają Mojżesza z podniesionymi rękami,
   start: 534.8
   duration: 4.29
   lang: pl
@@ -1772,7 +1772,7 @@ content:
   start: 549.58
   duration: 3.47
   lang: en
-- text: Słyszymy, że dopóki Mojżesz ma podniesione ręce
+- text: Słyszymy, że dopóki Mojżesz ma podniesione ręce,
   start: 549.58
   duration: 3.47
   lang: pl
@@ -1780,7 +1780,7 @@ content:
   start: 553.05
   duration: 1.4
   lang: en
-- text: ', walka przebiega pomyślnie.'
+- text: 'walka przebiega pomyślnie.'
   start: 553.05
   duration: 1.4
   lang: pl
@@ -1789,7 +1789,7 @@ content:
   duration: 3.623
   lang: en
   new_paragraph: true
-- text: Ale kiedy jego ramiona się zmęczą i upadną,
+- text: Ale kiedy jego ramiona się zmęczą i opadną,
   start: 555.62
   duration: 3.623
   lang: pl
@@ -1806,7 +1806,7 @@ content:
   start: 562.34
   duration: 3.85
   lang: en
-- text: Co za zasadniczo ważny duchowy punkt, wszyscy.
+- text: Co za zasadniczo ważny duchowy punkt.
   start: 562.34
   duration: 3.85
   lang: pl
@@ -1815,7 +1815,7 @@ content:
   duration: 3.06
   lang: en
   new_paragraph: true
-- text: Kościół wspiera się modlitwą.  Okres.
+- text: Kościół jest utrzymywany modlitwą. Kropka.
   start: 567.66
   duration: 3.06
   lang: pl
@@ -1834,7 +1834,7 @@ content:
   start: 574.72
   duration: 1.27
   lang: en
-- text: poza modlitwą.
+- text: bez modlitwy.
   start: 574.72
   duration: 1.27
   lang: pl
@@ -1843,7 +1843,7 @@ content:
   duration: 2.12
   lang: en
   new_paragraph: true
-- text: Jeśli Kościół przestanie się modlić
+- text: Jeśli Kościół przestaje się modlić,
   start: 577.05
   duration: 2.12
   lang: pl
@@ -1852,7 +1852,7 @@ content:
   start: 579.87
   duration: 1.84
   lang: en
-- text: ', bitwa nie idzie dobrze.'
+- text: 'bitwa nie idzie dobrze.'
   start: 579.87
   duration: 1.84
   lang: pl
@@ -1870,7 +1870,7 @@ content:
   start: 584.86
   duration: 3.54
   lang: en
-- text: Aaronie i Hurie, młodszych mężczyznach, którzy przychodzą
+- text: Aaronie i Hurze, młodszych mężczyznach, którzy przychodzą
   start: 584.86
   duration: 3.54
   lang: pl
@@ -1878,7 +1878,7 @@ content:
   start: 588.4
   duration: 4.052
   lang: en
-- text: i dosłownie podnoszą ramiona Mojżesza
+- text: i dosłownie podnoszą ramiona Mojżesza,
   start: 588.4
   duration: 4.052
   lang: pl
@@ -1886,7 +1886,7 @@ content:
   start: 593.001
   duration: 2.217
   lang: en
-- text: ', aby mógł dalej się modlić'
+- text: 'aby mógł dalej się modlić,'
   start: 593.001
   duration: 2.217
   lang: pl
@@ -1894,7 +1894,7 @@ content:
   start: 595.476
   duration: 2.544
   lang: en
-- text: ', aby bitwa mogła dalej toczyć się pomyślnie.'
+- text: 'aby bitwa mogła dalej toczyć się pomyślnie.'
   start: 595.476
   duration: 2.544
   lang: pl
