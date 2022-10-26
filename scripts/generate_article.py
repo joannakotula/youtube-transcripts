@@ -108,6 +108,8 @@ writeln(args.output, "---")
 
 writeln(args.output, f"Tytuł oryginalny: {article.original_title()}")
 writeln(args.output, "")
+writeln(args.output, f"Data publikacji wideo: {article.upload_date().strftime('%Y-%m-%d')}")
+writeln(args.output, "")
 writeln(args.output, "## Wideo")
 writeln(args.output, f"{{% include youtube.html id=\"{article.video_id()}\" %}}")
 writeln(args.output, "")
